@@ -1,0 +1,26 @@
+Thanks you for joining KT session.
+
+I have been actively involved in this project, overseeing key aspects such as requirement analysis and technical implementation.
+
+The purpose of this session is to provide you with comprehensive understanding of the FDM.
+
+We will discuss project objectives, architecture, key functionalities and technical components.
+
+This is a quick overview of the agenda.
+
+FDM follows Double-entry bookkeeping method. It means every transaction has two-sided entries to maintain financial information. Each entry has a debit side and a credit side, and sum of both credit and debit amount must be zero.
+
+Please feel free to contact us with any questions or concerns. We'll do our best to respond.
+
+First let me introduce my self one more time. My name is Srinivas and having 19 years of IT experience and involved in data solutions.
+I have been actively involved in FDM project for four years,  overseeing key aspects such as requirement analysis and technical implementation.
+
+Let me start by reintroducing myself. I'm Srinivas, and I've been working in data solutions for the past 19 years.
+I have been actively involved in FDM project for four years,  overseeing key aspects such as requirement analysis and technical implementation.
+
+
+Since the reconciliation issue occurred in production on 12 Dec 2024 and after that so many transactions loaded into FDM and posting also done for different processes. 
+
+Initially we suggested to do the reversal of Journal causing this issue. But Jacob is not willing to do that.
+Generally we do the data fix by deleting all the transactions from the point the issue 
+

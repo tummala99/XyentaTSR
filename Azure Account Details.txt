@@ -1,0 +1,90 @@
+----------------------------
+SQL Server Name : covid-srv-tsr.database.windows.net
+Database Name : civid-db
+SQL User: adm
+PWD: Srinivas@1
+Storegae Account: covidreportingsatsr
+
+SQL Default instance Name : MSSQLSERVER
+Port range : 16450-16460
+---------------------------
+git userId: tummala99
+Pwd:srinivas197201
+
+Git Access token : tummala99at
+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
+
+https://github.com/tummala99/covid19
+raw/main/ecdc_data/cases_deaths.csv
+raw/main/ecdc_data/hospital_admissions.csv
+raw/main/ecdc_data/country_response.csv
+blob/main/raw/main/ecdc_data/hospital_admissions.csv
+blob/main/raw/main/ecdc_data/country_response.csv
+
+https://github.com/tummala99/covid19/raw/main/ecdc_data/country_response.csv
+
+
+------------------
+https://github.com
+cloudboxacademy/covid19/raw/main/ecdc_data/country_response.csv
+------------------
+
+
+https://opendata.ecdc.europa.eu/covid19/nationalcasedeath/
+https://opendata.ecdc.europa.eu/covid19/nationalcasedeath/cases_deaths.csv
+https://opendata.ecdc.europa.eu/covid19/nationalcasedeath/hospital_admissions.csv
+https://opendata.ecdc.europa.eu/sites/default/files/documents/data_response_graphs_0.csv
+https://opendata.ecdc.europa.eu
+----------------------------
+
+SQL Server Name : DESKTOP-8916FIG
+Database Name : PracticeDB
+SQL User: Azureuser
+PWD: azureuser
+Storegae Account: saadftsr
+---------------------------
+
+Server name : sqlservertsr
+Authentication method : Use both SQL and Azure AD authentication
+Set Azure AD admin : srinivasa.tummala@xyenta.com
+		Admin Object/App ID: 3685af94-3c1c-4829-86a8-cadbbc70809a
+
+Server admin login : adminsqltrail
+Password : azureuser@1
+-----------------------------------
+Azure Cosmos DB Account:
+azurecosmosdbnosqltsr
+dbcosmosNoSQL
+
+------------------------------
+AzureAD\SrinivasaRaoTummala
+srinivasa.tummala@xyenta.com
+
+103.117.36.219
+\\Desktop-8916fig\fdm
+
+According to the Microsoft documentation you have to enable the access to the local machine for copying files. For this I opened the PowerShell on the VM and entered the following two commands (using IR version 5.0; for details to this command see here) to run the dmgcmd.exe:
+ cd "C:\Program Files\Microsoft Integration Runtime\5.0\Shared\"
+ .\dmgcmd.exe -DisableLocalFolderPathValidation
+Then I changed the path from \serverName\c$\folder to C:/folder in the linked service
+
+-----------------------------------
+Server=tcp:sqlservertsr.database.windows.net,1433;Initial Catalog=dbsqlserver;Persist Security Info=False;User ID=adminsqltrail;Password=azureuser@1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+
+Server=tcp:sqlservertsr.database.windows.net,1433;Initial Catalog=dbsqlserver;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;Authentication="Active Directory Default";
+
+----------------------------
+@concat('select * from [test].[t_salesdata] whre OrderDate >= convert(datetime,''',pipeline().parameters.starttimestamp,''')')
+
+
+INSERT INTO [test].[t_salesdata] VALUES
+('Asia','India','Sanitizer','Online','M',10,100,123,234,15,GETDATE()-5,GETDATE()-3,1),
+('Asia','India','Sanitizer','Offline','M',10,100,123,234,15,GETDATE()-5,GETDATE()-3,2)
+-------------------------------
+
+Pattren Matching
+Flatten
+Alter Row Transfermation
+XML file parsing
+
