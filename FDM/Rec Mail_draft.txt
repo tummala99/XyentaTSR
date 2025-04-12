@@ -1,0 +1,53 @@
+
+
+Initially, we suggested reversing the journal causing the issue, but Jacob is reluctant to proceed with this due to the high journal volume and other dependencies. The reconciliation issue occurred in production on December 12, 2024, and since then, many transactions have been loaded into FDM and postings have been made for various processes. 
+
+Typically, FDM resolves data issues by deleting all transactions from the point the issue was identified, but we recommended implementing this fix immediately after discovering the issue.
+
+Another option is to update the Dim_3 and Dim_7 fields of the existing IFRS transactions with the relevant entity code, as Agresso did, and Mark has also suggested this approach. We can pursue this option if we are clear on the criteria for updating IFRS transactions where the entity (Dim_3) is blank/invalid. We recommend copying the production database to UAT/SYS, apply the data fix, and validate the results. However, as Javid mentioned, restoring production databases to other environments is not feasible.
+
+Applying the data fix directly in production could lead to additional issues, so we will need to shut down the FDM system before applying the fix, take database backups, and then apply the fix.
+
+If the fix does not work in production, we can restore the backup copy. A DBA will be required to manage the backup and restoration process during the data fix deployment.
+
+FDM Cube
+FDM CUBE calculations
+How to connect to the Cube
+How to add and remove items in the report
+Different ways to filter data within the Pivot table report
+How to refresh the Pivot table report
+Posting Engine and demo
+FDM Jobs
+
+
+Hi Micheal,
+
+We recommend copying the production database to UAT/SYS, applying the data fix, and validating the results. However, as Javid mentioned, restoring production databases to other environments is not feasible.
+Applying the data fix directly in production could lead to additional issues, so we need to shut down the FDM system before applying the fix, take database backups, and then apply the fix.
+If the fix does not work in production, we can restore the backup copy. A DBA will be required to manage the backup and restoration process during the data fix deployment.
+
+
+Below is the proposed steps for the FDM data fix deployment process:
+
+Stop all the FDM jobs
+Create a full backup of the FDM production databases as a precautionary measure
+Deploy the data fix script on the production database.
+Start the FDM overnight job to ensure the updated data is processed correctly.
+Perform reconciliation checks
+Notify business users to review and validate the data to confirm its integrity and accuracy.
+If any issues are identified during validation or reconciliation, restore the backup databases to production to revert the changes.
+
+
+Since the data fix in UAT was applied to only 66 transactions, whereas the production environment contains approximately 3 million transactions.
+Additionally, since we cannot estimate how long the data fix deployment will take to run in production, we can only apply this fix during the weekends.
+
+
+As you know that we have applied the reconciliation data fix applied on UAT and 66 are updated.
+yesterday Michael Lewis restored the production FDM database into temporary server and I have applied the data fix to test how much time it will take to execute the script as script will update 3 million records and three table will effect. However data fix script executed on temporary server in 29 minutes.
+This test run only to ensure how long script will on production and not to validate the reconciliation data.
+ 
+As discussed yesterday, we planned to deploy the data fix on production on Saturday (25th January) and need to follow below steps.
+
+I suggest following a few steps when applying the fix in production.
+
+948873

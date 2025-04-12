@@ -1,0 +1,44 @@
+BUSA 2623 :
+
+
+1. What is the exact source from which we have to load the data.
+
+2. Need confirmation on the percentage USSYND allocate for 2623/623.
+
+3. Should data 
+
+4.We identified allocation rules from the dim allocations but not sure about the 82% share for 2623. And also found 82 and 18 percent for 2623, 623 from [dbo].[vw_SyndicateSplitsbyYOA] 
+
+5.How to take and which basis should take allocation percentages ( Baased on Dim Allocation rules are u taking). below is the data.
+
+ 6. How to take destination  entity is it  Dest as USSYND or dest as 2623
+
+--------------------------------------------5. From 2623 share should we split them again into Acquistion costs and Premium.
+
+BAIC :
+
+1. What exactly is the BAIC timetable Is?
+
+2. Any filters should be applied in order to load the BAIC data.
+
+3. More information would be helpful on Offset costs alinged to BAIC based on prior month costs. Any futher should be specified from our end for Overwrite comission/Offset costs.
+
+4.while landing BAIC data  whether to include or exclude overrider commision or not?
+
+BIDAC Branches :
+
+1. Should loading of data for entities BERE, BUWL be ignored.
+
+2. Brief about group tax calculation. Will this go under Agresso end or should be implemented from our end.
+
+3. Where group calculation should be generated? And whta is group calculation?
+
+BICI :
+
+1.Any trifocus(BICI A&H) should be neglected while loading the USBICI data? 
+
+2, 3(C) complete explaination.
+
+What is the exact location from which IFRS will consider as source.
+
+

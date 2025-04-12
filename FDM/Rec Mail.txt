@@ -1,0 +1,13 @@
+Since the reconciliation issue occurred in production on 12 Dec 2024 and after that so many transactions loaded into FDM and posting also done for different processes. 
+
+Initially we suggested to do the reversal of Journal that causing this issue. But Jacob is not willing to do that as Journal value is very high and some other dependencies.
+Generally FDM do the data fix by deleting all the transactions from the point the issue identified but we recommend this kind fix immediately after found the issue.
+
+The other option is that update the Dim_3 and Dim_7 fields of existing IFRS transaction with relevant entity code like Agresso did and Mark is also suggested that. We can go with option if we know the criteria to update the IFRS transactions where entity(dim_3) is blank. FDM team suggested to have the production database copy into UAT/SYS, apply the data fix and validate the data. As Javid said restoring the production databases into other environments is not possible.
+
+Applying the data fix directly on production may lead to other issues, so we need to down the FDM system before applying the datafix, take the DB backups and apply the fix.
+
+If fix is not working on production, then restore the backup copy and one DBA is required while applying the data fix to handle the backup and restore.
+
+
+
