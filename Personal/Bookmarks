@@ -1,0 +1,2874 @@
+{
+   "checksum": "5aa43d49ba28db119dde57c541f5b2a6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13223993529649346",
+            "date_last_used": "13356700018071332",
+            "guid": "0db7c205-8dc4-465f-b833-4d12c0860641",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13223993529650239",
+            "date_last_used": "13365842635148898",
+            "guid": "9e8d7271-6ca3-44d4-99e7-c6453749b810",
+            "id": "7",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "children": [ {
+               "date_added": "13356195418476268",
+               "date_last_used": "13372150731150751",
+               "guid": "2e06b6c3-668f-47eb-a3a2-74d329b1a92d",
+               "id": "414",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Home | Welcome",
+               "type": "url",
+               "url": "https://xyenta.keka.com/#/home/welcome"
+            }, {
+               "date_added": "13224601770080402",
+               "date_last_used": "13376665992170101",
+               "guid": "ad56f718-d492-4004-8f22-e4b0c0e52855",
+               "id": "32",
+               "name": "Citrix Workspace",
+               "type": "url",
+               "url": "https://bzaccess.cloud.com/Citrix/StoreWeb/#/home"
+            }, {
+               "date_added": "13263531683466635",
+               "date_last_used": "13352886286869274",
+               "guid": "cb28bcc4-660a-4e43-8fb1-9a37126a2cfc",
+               "id": "134",
+               "name": "teamdeck",
+               "type": "url",
+               "url": "https://app.teamdeck.io/organizations/22303/dashboard"
+            }, {
+               "date_added": "13223994165782219",
+               "date_last_used": "13359737388287301",
+               "guid": "f7e219ba-d98c-4c4c-bbb0-ef6f93dde74e",
+               "id": "8",
+               "name": "greytHR",
+               "type": "url",
+               "url": "https://xyentasolutions.greythr.com/v3/portal/onboarding/wizard"
+            }, {
+               "date_added": "13224673396018429",
+               "date_last_used": "0",
+               "guid": "599b2402-7981-433f-873e-8e9b61ce9cf2",
+               "id": "36",
+               "name": "Password Reset Server",
+               "type": "url",
+               "url": "https://service.beazley.mobi/PasswordResetServer/login.aspx?AspxAutoDetectCookieSupport=1"
+            }, {
+               "date_added": "13225468130928917",
+               "date_last_used": "0",
+               "guid": "9d102286-acde-463c-a185-fbfc477ecf5a",
+               "id": "43",
+               "name": "Beazley Remote Access",
+               "type": "url",
+               "url": "https://access.beazley.mobi/vpn/index.html"
+            }, {
+               "children": [ {
+                  "date_added": "13227957916535158",
+                  "date_last_used": "0",
+                  "guid": "5b1a7a5d-0ded-41e2-b191-f955e11c0334",
+                  "id": "56",
+                  "name": "Generally Accepted Accounting Principles (GAAP) Definition",
+                  "type": "url",
+                  "url": "https://www.investopedia.com/terms/g/gaap.asp"
+               }, {
+                  "date_added": "13227957951183005",
+                  "date_last_used": "0",
+                  "guid": "d995a494-e3b0-4791-ba51-099a52b924ff",
+                  "id": "58",
+                  "name": "Free Online Bookkeeping Course #7 - Double Entry Bookkeeping System - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=DVU3byLNtOQ&list=PLj71Vu_E9yZKomK8ECFZe4KqCXtyG1QTT&index=1"
+               }, {
+                  "date_added": "13227957969935549",
+                  "date_last_used": "0",
+                  "guid": "468ee60b-101f-49ae-ac6d-bd539bf19113",
+                  "id": "59",
+                  "name": "EiB Insights 001: Calculating Written vs Earned Premium - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=pyEc6BNc1Q4"
+               }, {
+                  "date_added": "13227957994478572",
+                  "date_last_used": "0",
+                  "guid": "0f31551c-6f5a-4840-9ce8-e5d8b02b2418",
+                  "id": "60",
+                  "name": "Earned Premiums & Unearned Premiums : Insurance Accounting Terms - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=jTWD116roVk"
+               }, {
+                  "date_added": "13227958054414943",
+                  "date_last_used": "0",
+                  "guid": "bb29c4a7-a96d-4c21-98f9-a5db288d8d48",
+                  "id": "61",
+                  "name": "What is a Binder in Insurance ? Why do Insurance Companies Issue a Binder ? Contents ? - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=sCmhOqkQ7s4"
+               }, {
+                  "date_added": "13227958953728836",
+                  "date_last_used": "0",
+                  "guid": "61dcccfb-fd64-4efb-9e5e-a0b8064d1a7f",
+                  "id": "62",
+                  "name": "Insurance Accounting Essentials - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=fDuY50Rfvsg"
+               }, {
+                  "date_added": "13227958982599529",
+                  "date_last_used": "0",
+                  "guid": "47e5442c-23f6-4eed-bef8-988356b92f5f",
+                  "id": "63",
+                  "name": "A simple reinsurance agreement - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=gAaZNPOQ0D4"
+               }, {
+                  "date_added": "13227959016815863",
+                  "date_last_used": "0",
+                  "guid": "138480a3-ad53-4983-974f-f9ff9050a057",
+                  "id": "64",
+                  "name": "Actuarial Reserves - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Ncueph9iTZg"
+               }, {
+                  "date_added": "13227959036633534",
+                  "date_last_used": "0",
+                  "guid": "0321a79d-8332-414e-b5d5-09d7b9b54686",
+                  "id": "65",
+                  "name": "What is IBNR? - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=9_KCaNlp0ig"
+               }, {
+                  "date_added": "13227959087935817",
+                  "date_last_used": "0",
+                  "guid": "cc885def-b540-4df6-a367-c7269211a529",
+                  "id": "66",
+                  "name": "Insurance Business Simulation - Financial Metrics and Ratios - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=OgO_IjKhMHo&list=PLWhWlY35OCEeLqkBCrqeuMKUIvdWzHfMw&index=3"
+               }, {
+                  "date_added": "13227959111056535",
+                  "date_last_used": "0",
+                  "guid": "da25975e-140c-453e-9c45-a3ec5557e373",
+                  "id": "67",
+                  "name": "Insurance Business Simulation - Financial Statements - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=XyrRi-JLtxk&list=PLWhWlY35OCEeLqkBCrqeuMKUIvdWzHfMw&index=4"
+               }, {
+                  "date_added": "13227959153136249",
+                  "date_last_used": "0",
+                  "guid": "fc404383-8724-4800-93e6-19444aaa25b8",
+                  "id": "68",
+                  "name": "Lloyd's Extraordinary History - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=LdYdeHMWbUA"
+               }, {
+                  "date_added": "13227959163304295",
+                  "date_last_used": "0",
+                  "guid": "e8cb2244-1387-477b-8226-d5b2f914f42d",
+                  "id": "69",
+                  "name": "How the Lloyd's market works 360 interactive video - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=BIl0r0ZkVCk"
+               }, {
+                  "date_added": "13227959172176243",
+                  "date_last_used": "0",
+                  "guid": "816f6de6-f128-4a03-8912-d959ccfcee40",
+                  "id": "70",
+                  "name": "How the Lloyd's market works - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=IboYpwx9bJ4"
+               }, {
+                  "date_added": "13227959184296205",
+                  "date_last_used": "0",
+                  "guid": "83f074a6-e869-4bf4-8121-e336b27a5316",
+                  "id": "71",
+                  "name": "Inside Lloyd's: Writing risks at Lloyd's of London with Barbican Insurance and Aon Benfield - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Cf3c9e7BSRM"
+               }, {
+                  "date_added": "13227959195640704",
+                  "date_last_used": "0",
+                  "guid": "403a6a41-d693-4c69-92c4-7a497594708c",
+                  "id": "72",
+                  "name": "Inside Lloyd's: Demystifying the inner workings of the world's most famous insurance market - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=ugRFJv_93ZU"
+               } ],
+               "date_added": "13227957941970080",
+               "date_last_used": "0",
+               "date_modified": "13228405775516442",
+               "guid": "f4101ab7-1ed4-4d7f-b801-f7fbf98adf17",
+               "id": "57",
+               "name": "DomainKT",
+               "type": "folder"
+            }, {
+               "date_added": "13228405775516442",
+               "date_last_used": "0",
+               "guid": "74abc224-1fe4-420c-a98b-d3bef46617fb",
+               "id": "74",
+               "name": "Watch 'Erika and 3 others' | Microsoft Stream",
+               "type": "url",
+               "url": "https://web.microsoftstream.com/video/196d49fa-ebae-4d6a-ac56-16e3cdea0fdb"
+            }, {
+               "date_added": "13228836953173027",
+               "date_last_used": "0",
+               "guid": "9f6dd188-1fd8-494a-96b2-ad104c8ad9f9",
+               "id": "76",
+               "name": "Discord",
+               "type": "url",
+               "url": "https://discordapp.com/channels/553720380473344011/553720380473344013"
+            }, {
+               "date_added": "13228925629474132",
+               "date_last_used": "0",
+               "guid": "6796282c-2710-4d90-9728-229a4a50d705",
+               "id": "78",
+               "name": "Speedtest by Ookla - The Global Broadband Speed Test",
+               "type": "url",
+               "url": "https://www.speedtest.net/result/9140879654"
+            }, {
+               "date_added": "13232692015863309",
+               "date_last_used": "0",
+               "guid": "b551c87d-f08b-40e0-a8de-704c263ea2df",
+               "id": "83",
+               "name": "myQuiz: Make a Quiz, Run it in real time, or Play for free!",
+               "type": "url",
+               "url": "https://myquiz.org/"
+            }, {
+               "date_added": "13233251206056924",
+               "date_last_used": "0",
+               "guid": "e4f83d31-8016-446e-ab30-01d218a6eaaa",
+               "id": "85",
+               "name": "My Teams - Scrumvee",
+               "type": "url",
+               "url": "https://scrumvee.com/dashboard/team/list"
+            }, {
+               "date_added": "13253037086337251",
+               "date_last_used": "0",
+               "guid": "7502fe7d-ddbd-4390-8386-37a97e413b73",
+               "id": "115",
+               "name": "GMT to IST Converter - Savvy Time",
+               "type": "url",
+               "url": "https://savvytime.com/converter/gmt-to-ist"
+            }, {
+               "date_added": "13266594361507937",
+               "date_last_used": "0",
+               "guid": "a0ff3e02-232d-46b2-957f-cf692d3cc14e",
+               "id": "139",
+               "name": "AppDynamics",
+               "type": "url",
+               "url": "https://beazley-dev.saas.appdynamics.com/controller/#/location=AD_HOME_OVERVIEW"
+            }, {
+               "children": [ {
+                  "date_added": "13271937374145832",
+                  "date_last_used": "0",
+                  "guid": "3382b707-2807-4fe8-9da6-d054b954b175",
+                  "id": "165",
+                  "name": "Releases · ASStoredProcedures/ASStoredProcedures · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/ASStoredProcedures/ASStoredProcedures/releases"
+               }, {
+                  "date_added": "13271937561551316",
+                  "date_last_used": "0",
+                  "guid": "99419801-982f-4c0d-a1bf-6441cbb47168",
+                  "id": "167",
+                  "name": "Installation Instructions",
+                  "type": "url",
+                  "url": "https://asstoredprocedures.github.io/ASStoredProcedures/Installation-Instructions/"
+               } ],
+               "date_added": "13271937397906166",
+               "date_last_used": "0",
+               "date_modified": "13272127256679175",
+               "guid": "659b6aa2-0c01-4e76-a86a-d8a1b93f6c98",
+               "id": "166",
+               "name": "Softwares",
+               "type": "folder"
+            }, {
+               "date_added": "13318697983202469",
+               "date_last_used": "0",
+               "guid": "cd9c335e-728e-4115-9250-9303a6fe9a15",
+               "id": "319",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Create your flow | Power Automate",
+               "type": "url",
+               "url": "https://make.powerautomate.com/environments/Default-9a50eba8-7568-447a-bcb9-27a0d464aa80/home"
+            }, {
+               "date_added": "13318698032998622",
+               "date_last_used": "13320751019067271",
+               "guid": "ef32172f-8592-4991-b00f-1f47e37dd3c8",
+               "id": "320",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Power Apps | Home",
+               "type": "url",
+               "url": "https://make.powerapps.com/environments/Default-9a50eba8-7568-447a-bcb9-27a0d464aa80/home"
+            }, {
+               "date_added": "13325760309774140",
+               "date_last_used": "13356171099207934",
+               "guid": "3c313b80-7f80-45c4-a12c-ef34ce6da18a",
+               "id": "335",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "hicomply - Compliance",
+               "type": "url",
+               "url": "https://app.hicomply.com/standards/compliancedashboard"
+            } ],
+            "date_added": "13224069983333367",
+            "date_last_used": "0",
+            "date_modified": "13366002450976540",
+            "guid": "aad2ed7e-9980-4a34-bf50-b70c31558f90",
+            "id": "11",
+            "name": "Xyenta",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13224088352459706",
+                  "date_last_used": "0",
+                  "guid": "76356172-ca69-4d18-804c-c36f1a11c93f",
+                  "id": "12",
+                  "name": "An Intro to Git and GitHub for Beginners (Tutorial)",
+                  "type": "url",
+                  "url": "https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners"
+               }, {
+                  "date_added": "13224088395681754",
+                  "date_last_used": "0",
+                  "guid": "7ce08392-a0ee-4174-b26a-2c9c2bb1118d",
+                  "id": "15",
+                  "name": "git-cheat-sheet-education",
+                  "type": "url",
+                  "url": "https://education.github.com/git-cheat-sheet-education.pdf"
+               }, {
+                  "date_added": "13242229618304861",
+                  "date_last_used": "0",
+                  "guid": "9122971c-a46f-474c-a93b-e8f446cd55da",
+                  "id": "99",
+                  "name": "Git reset origin to commit | Christian Engvall",
+                  "type": "url",
+                  "url": "https://www.christianengvall.se/git-reset-origin-master-to-commit/"
+               }, {
+                  "date_added": "13242807195032444",
+                  "date_last_used": "0",
+                  "guid": "92d68212-3c51-42a0-8fef-5c326af89331",
+                  "id": "101",
+                  "name": "Order View",
+                  "type": "url",
+                  "url": "https://www.netmeds.com/customer/orderhistory/view/15983332969003629W"
+               }, {
+                  "date_added": "13242807206343898",
+                  "date_last_used": "0",
+                  "guid": "d6361316-ed67-4ae7-b6e4-53531be6c445",
+                  "id": "102",
+                  "name": "Netmeds.com: Indian Online Pharmacy | Buy Medicines Online, Fast Delivery",
+                  "type": "url",
+                  "url": "https://www.netmeds.com/"
+               }, {
+                  "date_added": "13243965798377159",
+                  "date_last_used": "0",
+                  "guid": "2b83771a-4ffc-4c51-a4f0-3a35a0bd6fa8",
+                  "id": "104",
+                  "name": "Adding an existing project to GitHub using the command line - GitHub Docs",
+                  "type": "url",
+                  "url": "https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line"
+               }, {
+                  "date_added": "13372240090329007",
+                  "date_last_used": "0",
+                  "guid": "47cb6de2-fdf1-4b73-80d3-5153e08a0d27",
+                  "id": "448",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "6 Git Cherry Pick Commands & How To Use Them? - Hatica",
+                  "type": "url",
+                  "url": "https://www.hatica.io/blog/git-cherry-pick-commands/"
+               }, {
+                  "date_added": "13372240104850333",
+                  "date_last_used": "0",
+                  "guid": "96aefd5b-f5c8-442b-8ce1-fe510959dbb0",
+                  "id": "449",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "How to cherry-pick commits in Git. A Step-by-Step Guide | by Yash Pandit | Medium",
+                  "type": "url",
+                  "url": "https://medium.com/@ypandit/how-to-cherry-pick-on-git-a-step-by-step-guide-bc4b5153331a"
+               }, {
+                  "date_added": "13372240220279963",
+                  "date_last_used": "0",
+                  "guid": "bf2c7697-8a9f-4931-8369-029a1fbd17c0",
+                  "id": "450",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "git - How to cherry-pick multiple commits - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/1670970/how-to-cherry-pick-multiple-commits"
+               } ],
+               "date_added": "13224088389374822",
+               "date_last_used": "0",
+               "date_modified": "13374060330222422",
+               "guid": "07aeabaa-e877-44e7-a5ca-e39d2c40765d",
+               "id": "14",
+               "name": "GitHub",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13287132641114142",
+                     "date_last_used": "0",
+                     "guid": "f794c3d8-faea-4af3-ac2f-743fa3138675",
+                     "id": "206",
+                     "name": "Azure Data Factory vs Databricks: 4 Critical Key Differences - Learn | Hevo",
+                     "type": "url",
+                     "url": "https://hevodata.com/learn/azure-data-factory-vs-databricks/"
+                  }, {
+                     "date_added": "13287133789757752",
+                     "date_last_used": "0",
+                     "guid": "1abcf898-12f0-4b8f-bb73-105e02218b40",
+                     "id": "209",
+                     "name": "Azure Data Factory vs SSIS vs Azure Databricks - Intellipaat",
+                     "type": "url",
+                     "url": "https://intellipaat.com/blog/azure-data-factory-vs-ssis-vs-azure-databricks-difference/"
+                  }, {
+                     "date_added": "13287133965772596",
+                     "date_last_used": "0",
+                     "guid": "b7c4fd62-1901-4c87-9498-4159a58b2316",
+                     "id": "210",
+                     "name": "Azure Data Factory Tutorial for Beginners - Intellipaat",
+                     "type": "url",
+                     "url": "https://intellipaat.com/blog/azure-data-factory-tutorial/"
+                  }, {
+                     "date_added": "13287482557424276",
+                     "date_last_used": "0",
+                     "guid": "a2e94c3a-7451-4811-962a-45b10aad9863",
+                     "id": "213",
+                     "name": "Migrating SSIS Packages to ADF (Azure Data Factory)",
+                     "type": "url",
+                     "url": "https://ravikirans.com/migrating-ssis-packages-azure-data-factory/"
+                  }, {
+                     "date_added": "13287482724143657",
+                     "date_last_used": "0",
+                     "guid": "bcd7e43f-7031-41ac-8444-8e966dd576b4",
+                     "id": "214",
+                     "name": "Migrating SSIS packages to Azure - Lift and Shift using Azure Data Factory – SQLServerCentral",
+                     "type": "url",
+                     "url": "https://www.sqlservercentral.com/articles/migrating-ssis-packages-to-azure-lift-and-shift-using-azure-data-factory"
+                  }, {
+                     "date_added": "13287482736125856",
+                     "date_last_used": "0",
+                     "guid": "275bf4e7-0c9b-4311-bcdf-2db3000cfc89",
+                     "id": "215",
+                     "name": "Move local SSIS packages to Azure Data Factory",
+                     "type": "url",
+                     "url": "https://www.sqlshack.com/move-local-ssis-packages-to-azure-data-factory/"
+                  }, {
+                     "date_added": "13287482752977855",
+                     "date_last_used": "0",
+                     "guid": "a017ad72-bd2d-4cd2-81f2-87de6c2e7733",
+                     "id": "216",
+                     "name": "Migrate on-premises SQL Server Integration Services (SSIS) workloads to SSIS in Azure Data Factory (ADF) - Azure Data Factory | Microsoft Docs",
+                     "type": "url",
+                     "url": "https://docs.microsoft.com/en-us/azure/data-factory/scenario-ssis-migration-overview"
+                  }, {
+                     "date_added": "13287482794431698",
+                     "date_last_used": "13329824393993348",
+                     "guid": "ed2dc61d-13b7-4f2e-9e12-e28d2badab05",
+                     "id": "217",
+                     "name": "Beginner's Guide to Azure Data Factory (Series) | Page 1 of 6 | Cathrine Wilhelmsen",
+                     "type": "url",
+                     "url": "https://www.cathrinewilhelmsen.net/series/beginners-guide-azure-data-factory/"
+                  }, {
+                     "date_added": "13287482808235058",
+                     "date_last_used": "0",
+                     "guid": "7813f8ae-fe67-4a15-9893-4a13a7b96024",
+                     "id": "218",
+                     "name": "Azure Data Factory - javatpoint",
+                     "type": "url",
+                     "url": "https://www.javatpoint.com/azure-data-factory#:~:text=Step%201%3A%20Click%20on%20create,the%20details%2C%20click%20on%20create."
+                  }, {
+                     "date_added": "13287482847891518",
+                     "date_last_used": "0",
+                     "guid": "9854bed0-8f38-4f36-a07a-4aa1e80cf907",
+                     "id": "219",
+                     "name": "▷ Azure Data Factory Tutorial for Beginners (2022)",
+                     "type": "url",
+                     "url": "https://mindmajix.com/azure-data-factory-tutorial"
+                  }, {
+                     "date_added": "13330533092033267",
+                     "date_last_used": "0",
+                     "guid": "64fcdacd-fa82-41e2-aa8e-edad93139d39",
+                     "id": "342",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Create schedule triggers - Azure Data Factory & Azure Synapse | Microsoft Learn",
+                     "type": "url",
+                     "url": "https://learn.microsoft.com/en-us/azure/data-factory/how-to-create-schedule-trigger?tabs=data-factory"
+                  }, {
+                     "date_added": "13330696881793955",
+                     "date_last_used": "0",
+                     "guid": "50d0ce1d-8bbe-42a8-a63c-4199e7a0bfbc",
+                     "id": "343",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "security - Access denied to server in File System Linked Service in Data Factory - Stack Overflow",
+                     "type": "url",
+                     "url": "https://stackoverflow.com/questions/76101174/access-denied-to-server-in-file-system-linked-service-in-data-factory"
+                  }, {
+                     "date_added": "13343305802535097",
+                     "date_last_used": "0",
+                     "guid": "d68d4a80-819a-427f-a91e-1a016ccec6d5",
+                     "id": "375",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "50+ Azure Data Factory Interview Questions and Answers [2023]",
+                     "type": "url",
+                     "url": "https://www.projectpro.io/article/azure-data-factory-interview-questions-and-answers/601"
+                  }, {
+                     "date_added": "13343305864427600",
+                     "date_last_used": "0",
+                     "guid": "3f8f7df4-47c3-4e98-bad3-a7ca05f28833",
+                     "id": "376",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Top 40+ Azure Data Factory Interview Questions September 2023",
+                     "type": "url",
+                     "url": "https://k21academy.com/microsoft-azure/dp-203/adf-interview-questions/"
+                  }, {
+                     "date_added": "13343495448371062",
+                     "date_last_used": "0",
+                     "guid": "705db845-bc74-4d8d-a397-7de1f4bdd20d",
+                     "id": "377",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Top 20 Azure Data Factory interview Questions & Answers 2023",
+                     "type": "url",
+                     "url": "https://intellipaat.com/blog/interview-question/azure-data-factory-interview-questions/"
+                  } ],
+                  "date_added": "13287132670190576",
+                  "date_last_used": "0",
+                  "date_modified": "13344156163100963",
+                  "guid": "01e76842-19a5-457c-9af1-682d7f9ba6d3",
+                  "id": "208",
+                  "name": "ADF",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13332937718323604",
+                     "date_last_used": "0",
+                     "guid": "d066c0a6-e80e-4c75-b010-d86c0eeab8eb",
+                     "id": "346",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Top 6 Azure Synapse Analytics Interview Questions",
+                     "type": "url",
+                     "url": "https://www.analyticsvidhya.com/blog/2023/03/top-6-azure-synapse-analytics-interview-questions/"
+                  }, {
+                     "date_added": "13332937749479640",
+                     "date_last_used": "0",
+                     "guid": "7f55ab6e-26fa-4c04-a6c2-abb72d6837e1",
+                     "id": "348",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Top 15 Azure Synapse Analytics Interview Questions and Answers",
+                     "type": "url",
+                     "url": "https://www.projectpro.io/article/azure-synapse-analytics-interview-questions-and-answers/743"
+                  }, {
+                     "date_added": "13333041012191441",
+                     "date_last_used": "0",
+                     "guid": "e2d58a68-eda9-406b-8131-41cdda53caf9",
+                     "id": "349",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Building simple Business Intelligence Project using Azure Synapse and Power BI | by Dhilip Subramanian | Towards Data Science",
+                     "type": "url",
+                     "url": "https://towardsdatascience.com/building-simple-business-intelligence-project-using-azure-synapse-and-power-bi-39dc5246de02"
+                  } ],
+                  "date_added": "13332937746778756",
+                  "date_last_used": "0",
+                  "date_modified": "13333041108106324",
+                  "guid": "8132ecd6-348b-4322-b428-f39130bcec30",
+                  "id": "347",
+                  "name": "Azure Synapse",
+                  "type": "folder"
+               }, {
+                  "date_added": "13333041108106324",
+                  "date_last_used": "0",
+                  "guid": "9b5afbb0-5cb2-4b7b-bbd4-6ba715755bf5",
+                  "id": "350",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Browse Azure Architectures - Azure Architecture Center | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/azure/architecture/browse/"
+               }, {
+                  "children": [ {
+                     "date_added": "13334741988532410",
+                     "date_last_used": "0",
+                     "guid": "3bd455b6-41b5-4b53-a254-1ab547ee4734",
+                     "id": "356",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Azure Databricks documentation | Microsoft Learn",
+                     "type": "url",
+                     "url": "https://learn.microsoft.com/en-us/azure/databricks/"
+                  }, {
+                     "date_added": "13334742007202793",
+                     "date_last_used": "0",
+                     "guid": "eaada3e2-6ae0-43b1-877d-2cfcaefe5def",
+                     "id": "358",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Explore Azure Databricks - Training | Microsoft Learn",
+                     "type": "url",
+                     "url": "https://learn.microsoft.com/en-us/training/modules/explore-azure-databricks/"
+                  } ],
+                  "date_added": "13334742003087205",
+                  "date_last_used": "0",
+                  "date_modified": "13334742007202793",
+                  "guid": "f439a2ed-4637-4be2-a1e3-cb792ceec526",
+                  "id": "357",
+                  "name": "Databricks",
+                  "type": "folder"
+               }, {
+                  "date_added": "13335633888848711",
+                  "date_last_used": "0",
+                  "guid": "3616c338-0d18-42a8-8073-6844baf4f5a0",
+                  "id": "360",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Welcome To TechBrothersIT: SSIS INTERVIEW QUESTIONS",
+                  "type": "url",
+                  "url": "https://www.techbrothersit.com/search/label/SSIS%20INTERVIEW%20QUESTIONS"
+               } ],
+               "date_added": "13287132670190456",
+               "date_last_used": "0",
+               "date_modified": "13335951693722075",
+               "guid": "9967056f-449f-4fc4-9f2e-ae35f4852394",
+               "id": "207",
+               "name": "Azure",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13258036017221855",
+                  "date_last_used": "0",
+                  "guid": "b3ee90d9-0c4a-46b6-b394-19b8b90f3d80",
+                  "id": "123",
+                  "name": "Get started with deployment pipelines - Power BI | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/power-bi/create-reports/deployment-pipelines-get-started"
+               }, {
+                  "date_added": "13258042926521421",
+                  "date_last_used": "0",
+                  "guid": "c6132008-1fbc-4f6c-863a-336f94696c81",
+                  "id": "125",
+                  "name": "Introducing Power BI deployment pipelines (Preview) | Microsoft Power BI Blog | Microsoft Power BI",
+                  "type": "url",
+                  "url": "https://powerbi.microsoft.com/en-us/blog/introducing-power-bi-deployment-pipelines-preview/"
+               }, {
+                  "date_added": "13258042931823509",
+                  "date_last_used": "0",
+                  "guid": "7f3007b9-85ed-4f12-a4cb-50720cc50cc8",
+                  "id": "126",
+                  "name": "Deployment pipelines overview - Power BI | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/power-bi/create-reports/deployment-pipelines-overview"
+               }, {
+                  "date_added": "13282555530908411",
+                  "date_last_used": "0",
+                  "guid": "325c79ae-2260-48d4-bd1d-96e73f7c23ca",
+                  "id": "180",
+                  "name": "Types of filters in Power BI reports - Power BI | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/power-bi/create-reports/power-bi-report-filter-types"
+               }, {
+                  "date_added": "13282628961322444",
+                  "date_last_used": "0",
+                  "guid": "083eb14c-97b6-4e0b-afc1-6da96c55dcc2",
+                  "id": "181",
+                  "name": "Treemap details | Power BI Exchange",
+                  "type": "url",
+                  "url": "https://www.pbiusergroup.com/communities/community-home/digestviewer/viewthread?MessageKey=76cbbd98-9444-4f8f-ae5c-92f7cfbbd993&CommunityKey=b35c8468-2fd8-4e1a-8429-322c39fe7110&tab=digestviewer"
+               }, {
+                  "date_added": "13285165098100931",
+                  "date_last_used": "0",
+                  "guid": "d8a98179-c038-4162-b700-df9c8f5dd06c",
+                  "id": "193",
+                  "name": "Advantages, Disadvantages And Limitations Of PowerApps",
+                  "type": "url",
+                  "url": "https://www.c-sharpcorner.com/blogs/advantages-disadvantages-and-limitations-of-powerapps"
+               }, {
+                  "date_added": "13285433125803064",
+                  "date_last_used": "0",
+                  "guid": "79f55d39-501a-4824-b219-7985131b667b",
+                  "id": "195",
+                  "name": "How to use SSIS with Power Query to extract data from Power BI Premium and insert into local CSV - Reporting/Analytics Made easy with FourMoo and Power BI",
+                  "type": "url",
+                  "url": "https://www.fourmoo.com/2020/08/12/how-to-use-ssis-with-power-query-to-extract-data-from-power-bi-premium-and-insert-into-local-csv/"
+               }, {
+                  "date_added": "13285927836364789",
+                  "date_last_used": "0",
+                  "guid": "18208160-7b8b-40f1-b320-5e21ae9b37ca",
+                  "id": "197",
+                  "name": "Publish a paginated report to the Power BI service - Power BI | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-save-to-power-bi-service"
+               }, {
+                  "date_added": "13286020004199856",
+                  "date_last_used": "0",
+                  "guid": "9ff23b13-1908-4a3f-bad1-cb66668b2072",
+                  "id": "198",
+                  "name": "Migrating SharePoint On-Premises to Online using Migration tool",
+                  "type": "url",
+                  "url": "https://www.manageengine.com/sharepoint-management-reporting/kb/how-to-migrate-sharepoint-on-premises-to-online.html"
+               }, {
+                  "date_added": "13286527076387955",
+                  "date_last_used": "0",
+                  "guid": "80ea9153-b4ae-4fb2-a5b6-73df99892a9e",
+                  "id": "202",
+                  "name": "Tip #1402: Why you should not use Microsoft Lists/SharePoint Lists for business-critical Power Apps | Power Platform & Dynamics CRM Tip Of The Day",
+                  "type": "url",
+                  "url": "https://crmtipoftheday.com/1402/why-you-should-not-use-microsoft-lists-sharepoint-lists-for-business-critical-power-apps/"
+               }, {
+                  "date_added": "13286556650904531",
+                  "date_last_used": "0",
+                  "guid": "6c50e803-2761-4763-a31b-165196b8e6a7",
+                  "id": "204",
+                  "name": "Help Manual - AX Connection Manager - KingswaySoft",
+                  "type": "url",
+                  "url": "https://www.kingswaysoft.com/products/ssis-integration-toolkit-for-microsoft-dynamics-365/help-manual/ax/connection-manager"
+               }, {
+                  "date_added": "13286789708912637",
+                  "date_last_used": "0",
+                  "guid": "b0b0b833-dc84-48be-ac09-f500ae57eca5",
+                  "id": "205",
+                  "name": "8 top reasons to use Dataverse or SharePoint lists in the Power Platform",
+                  "type": "url",
+                  "url": "https://sharepains.com/2021/04/15/dataverse-or-sharepoint-lists/"
+               }, {
+                  "date_added": "13287492373769998",
+                  "date_last_used": "0",
+                  "guid": "f6244661-47e1-4a23-8ef0-cbc11df1438a",
+                  "id": "220",
+                  "name": "Migrate SQL Server Reporting Services reports to Power BI - Power BI | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/power-bi/guidance/migrate-ssrs-reports-to-power-bi"
+               }, {
+                  "date_added": "13287561170235754",
+                  "date_last_used": "0",
+                  "guid": "744983c3-2766-4a62-83d4-d342538cb361",
+                  "id": "221",
+                  "name": "Pin paginated report items to Power BI dashboards - Reporting Services - SQL Server Reporting Services (SSRS) | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/sql/reporting-services/pin-reporting-services-items-to-power-bi-dashboards?view=sql-server-ver15#:~:text=In%20the%20Reporting%20Services%20web,Power%20BI%20button%20the%20toolbar."
+               }, {
+                  "date_added": "13302369094763776",
+                  "date_last_used": "0",
+                  "guid": "e7622ae0-a616-4e70-9f9c-ffd3a5967bd9",
+                  "id": "281",
+                  "name": "Power BI Playground",
+                  "type": "url",
+                  "url": "https://playground.powerbi.com/en-us/home"
+               }, {
+                  "date_added": "13333111923242395",
+                  "date_last_used": "13333113761183349",
+                  "guid": "09a6e0e7-85c1-4079-abf9-555819743be8",
+                  "id": "351",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Devin Knight",
+                  "type": "url",
+                  "url": "https://devinknightsql.com/"
+               }, {
+                  "date_added": "13333521175943931",
+                  "date_last_used": "0",
+                  "guid": "1451d4f8-502e-4af9-9646-590a65058f3b",
+                  "id": "353",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Internet Banking Login",
+                  "type": "url",
+                  "url": "https://www.unionbankonline.co.in/corp/AuthenticationController?__START_TRAN_FLAG__=Y&FORMSGROUP_ID__=AuthenticationFG&__EVENT_ID__=LOAD&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=7&BANK_ID=026&LANGUAGE_ID=001"
+               }, {
+                  "date_added": "13335951693722075",
+                  "date_last_used": "0",
+                  "guid": "c543b21d-5c10-463f-b139-3709997f94af",
+                  "id": "362",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Power BI Challenges – Workout Wednesday",
+                  "type": "url",
+                  "url": "https://workout-wednesday.com/power-bi-challenges/"
+               } ],
+               "date_added": "13258036037393349",
+               "date_last_used": "0",
+               "date_modified": "13336106110049418",
+               "guid": "68b4b87b-6048-46e8-97d6-0e28f90e8a2e",
+               "id": "124",
+               "name": "Power BI",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13269940215885486",
+                  "date_last_used": "0",
+                  "guid": "ad3e69dd-4ef0-4a92-b007-0cc8552e5429",
+                  "id": "150",
+                  "name": "(2) How to use Microsoft Power Apps - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=2RzCbd5XgJg"
+               }, {
+                  "date_added": "13269940284197234",
+                  "date_last_used": "0",
+                  "guid": "e5cd06c6-1627-458b-8464-ad0a855e14be",
+                  "id": "152",
+                  "name": "(2) Power Apps Tutorial for Beginners (Hands-On) : Make an App from Scratch - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Dv_mGWwCiLU"
+               }, {
+                  "date_added": "13269940302563418",
+                  "date_last_used": "0",
+                  "guid": "786ec56a-6322-490e-b029-37ae60c69390",
+                  "id": "153",
+                  "name": "(2) How to Use Power Apps | Get Started with THIS Tutorial & Create your 1st app - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=RAeYV84esqg"
+               }, {
+                  "date_added": "13270021255607509",
+                  "date_last_used": "0",
+                  "guid": "039e096f-7bd1-494c-b862-5d788ca23a11",
+                  "id": "155",
+                  "name": "Business Apps | Microsoft Power Apps",
+                  "type": "url",
+                  "url": "https://powerapps.microsoft.com/en-us/"
+               }, {
+                  "date_added": "13270021288938375",
+                  "date_last_used": "0",
+                  "guid": "50a1330c-5880-4339-8e82-7eaf951b46fd",
+                  "id": "156",
+                  "name": "Microsoft Power Apps documentation - Power Apps | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/powerapps/"
+               }, {
+                  "date_added": "13287138439053535",
+                  "date_last_used": "0",
+                  "guid": "c207223d-82fb-4ce5-8524-6784b51ea075",
+                  "id": "212",
+                  "name": "Create and fill an Excel file dynamically with Power Automate » Benedikt's Power Platform Blog",
+                  "type": "url",
+                  "url": "https://benediktbergmann.eu/2020/09/27/create-and-fill-an-excel-file-dynamically-with-power-automate/"
+               }, {
+                  "date_added": "13320919129784504",
+                  "date_last_used": "0",
+                  "guid": "03a96087-4066-4688-b749-e303733a293a",
+                  "id": "332",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "GitHub - microsoft/PowerApps-Language-Tooling: Tooling support for PowerApps language and .msapp files",
+                  "type": "url",
+                  "url": "https://github.com/microsoft/PowerApps-Language-Tooling"
+               }, {
+                  "date_added": "13320919151640932",
+                  "date_last_used": "0",
+                  "guid": "7b91122e-4789-45b5-ac66-7402f4192cb4",
+                  "id": "333",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Source code files for Canvas apps | Microsoft Power Apps",
+                  "type": "url",
+                  "url": "https://powerapps.microsoft.com/en-us/blog/source-code-files-for-canvas-apps/"
+               } ],
+               "date_added": "13269940270645599",
+               "date_last_used": "0",
+               "date_modified": "13325760309774140",
+               "guid": "a7c8c9d0-0885-4cf5-9eaa-8034f073317e",
+               "id": "151",
+               "name": "Power Apps",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13284728591682485",
+                  "date_last_used": "0",
+                  "guid": "f054b448-e67d-443b-8707-c4bd1ee191e1",
+                  "id": "191",
+                  "name": "Configure MSDTC on SQL Server and adapter client - BizTalk Server | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/biztalk/adapters-and-accelerators/adapter-sql/configure-msdtc-on-sql-server-and-adapter-client"
+               }, {
+                  "date_added": "13286369315802895",
+                  "date_last_used": "0",
+                  "guid": "ee382b4a-d5f0-4d39-a48f-2a269bab50f0",
+                  "id": "200",
+                  "name": "SQL Server Deadlocks: What They Are and How to Avoid Them - Database Management - Blogs - Quest Community",
+                  "type": "url",
+                  "url": "https://blog.quest.com/the-anatomy-of-sql-server-deadlocks-and-the-best-ways-to-avoid-them/"
+               }, {
+                  "date_added": "13224176265370074",
+                  "date_last_used": "0",
+                  "guid": "c61d4d42-0fd5-4f45-83dd-12e1262363a4",
+                  "id": "17",
+                  "name": "Performing a SQL Server Audit using System-Versioned Temporal Tables",
+                  "type": "url",
+                  "url": "https://www.sqlshack.com/performing-a-sql-server-audit-using-system-versioned-temporal-tables/"
+               }, {
+                  "date_added": "13349180795966955",
+                  "date_last_used": "0",
+                  "guid": "981b34c5-1e9c-47cc-b505-71b445168eba",
+                  "id": "393",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Statistics Parser",
+                  "type": "url",
+                  "url": "https://statisticsparser.com/"
+               }, {
+                  "date_added": "13224176277259852",
+                  "date_last_used": "0",
+                  "guid": "9d00a99b-01ef-4341-9d09-d643005631e7",
+                  "id": "18",
+                  "name": "Creating a System-Versioned Temporal Table - SQL Server | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/sql/relational-databases/tables/creating-a-system-versioned-temporal-table?view=sql-server-ver15"
+               }, {
+                  "date_added": "13224611519374521",
+                  "date_last_used": "0",
+                  "guid": "f783fa93-cb6d-41b2-a099-8ec2cf205537",
+                  "id": "34",
+                  "name": "SQL Cheat Sheet and Query Syntax| Sisense",
+                  "type": "url",
+                  "url": "https://www.sisense.com/blog/sql-symbol-cheatsheet/"
+               }, {
+                  "date_added": "13269018310958906",
+                  "date_last_used": "0",
+                  "guid": "f424abb9-5b77-4788-9c3b-3b77165df21e",
+                  "id": "143",
+                  "name": "How to automate Table Partitioning in SQL Server",
+                  "type": "url",
+                  "url": "https://www.sqlshack.com/how-to-automate-table-partitioning-in-sql-server/"
+               }, {
+                  "date_added": "13224333723158561",
+                  "date_last_used": "0",
+                  "guid": "736d2af3-694c-4215-8ccc-8de7112c5e23",
+                  "id": "24",
+                  "name": "Error and Transaction Handling in SQL Server",
+                  "type": "url",
+                  "url": "http://www.sommarskog.se/error_handling/Part1.html"
+               }, {
+                  "date_added": "13269278674750221",
+                  "date_last_used": "0",
+                  "guid": "21f62a1a-5a02-4207-9dcb-abb1da08d829",
+                  "id": "146",
+                  "name": "How To Split Table Partitions Automatically |",
+                  "type": "url",
+                  "url": "https://marlonribunal.com/split-table-partitions/"
+               }, {
+                  "date_added": "13237400692441534",
+                  "date_last_used": "0",
+                  "guid": "06a69528-a4fb-4195-9415-616e47274d0b",
+                  "id": "91",
+                  "name": "GO Statement in Sql Server | SqlHints.com",
+                  "type": "url",
+                  "url": "https://sqlhints.com/tag/go-statement-in-sql-server/"
+               }, {
+                  "date_added": "13224235410101904",
+                  "date_last_used": "0",
+                  "guid": "8226862e-512e-4ce3-acab-44459f06fb6c",
+                  "id": "20",
+                  "name": "Top SQL string functions in SQL Server 2017",
+                  "type": "url",
+                  "url": "https://www.sqlshack.com/top-sql-string-functions-in-sql-server-2017/"
+               }, {
+                  "date_added": "13269276798600242",
+                  "date_last_used": "0",
+                  "guid": "1b855d89-3cea-4dfb-927c-fca17644dd4a",
+                  "id": "145",
+                  "name": "Database table partitioning in SQL Server",
+                  "type": "url",
+                  "url": "https://www.sqlshack.com/database-table-partitioning-sql-server/"
+               }, {
+                  "date_added": "13224250229228285",
+                  "date_last_used": "0",
+                  "guid": "0c32a2d0-a7a4-4d97-9ec1-34d94f05a91c",
+                  "id": "22",
+                  "name": "Using MERGE in SQL Server to insert, update and delete at the same time",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertip/1704/using-merge-in-sql-server-to-insert-update-and-delete-at-the-same-time/"
+               }, {
+                  "date_added": "13224250224324151",
+                  "date_last_used": "0",
+                  "guid": "14680dea-90aa-4bfa-bf44-830189fccb05",
+                  "id": "21",
+                  "name": "SQL Server MERGE: The Essential Guide to MERGE Statement",
+                  "type": "url",
+                  "url": "https://www.sqlservertutorial.net/sql-server-basics/sql-server-merge/"
+               }, {
+                  "date_added": "13237879984587536",
+                  "date_last_used": "0",
+                  "guid": "1c7a0d80-5744-47d7-85f5-bd81997698b2",
+                  "id": "93",
+                  "name": "SQL Interview Questions CHEAT SHEET (2020) - InterviewBit",
+                  "type": "url",
+                  "url": "https://www.interviewbit.com/sql-interview-questions/"
+               }, {
+                  "date_added": "13272127256679175",
+                  "date_last_used": "0",
+                  "guid": "bf7c49af-7996-4660-bbc8-df5284553e89",
+                  "id": "169",
+                  "name": "SQL Server Statistics and how to perform Update Statistics in SQL",
+                  "type": "url",
+                  "url": "https://www.sqlshack.com/sql-server-statistics-and-how-to-perform-update-statistics-in-sql/"
+               }, {
+                  "date_added": "13269537868835696",
+                  "date_last_used": "0",
+                  "guid": "b7cda538-7808-4df3-9ba5-c5dc00ddbcdb",
+                  "id": "148",
+                  "name": "How to generate random SQL Server test data using T-SQL",
+                  "type": "url",
+                  "url": "https://www.sqlshack.com/how-to-generate-random-sql-server-test-data-using-t-sql/"
+               }, {
+                  "date_added": "13288867208474646",
+                  "date_last_used": "0",
+                  "guid": "40143549-98e2-45a9-afaf-ddb838dc7ff7",
+                  "id": "223",
+                  "name": "What are SQL Server deadlocks and how to monitor them",
+                  "type": "url",
+                  "url": "https://www.sqlshack.com/what-are-sql-server-deadlocks-and-how-to-monitor-them/"
+               }, {
+                  "date_added": "13288874304415039",
+                  "date_last_used": "0",
+                  "guid": "16a2ede8-893c-42a2-870e-ff5afafbcb0d",
+                  "id": "224",
+                  "name": "SQL query to get the deadlocks in SQL SERVER 2008 - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/12422986/sql-query-to-get-the-deadlocks-in-sql-server-2008"
+               }, {
+                  "date_added": "13289414500449236",
+                  "date_last_used": "0",
+                  "guid": "e006a401-6650-4eb1-bb5d-b18332838b18",
+                  "id": "227",
+                  "name": "How do I find out if SSRS is Intregrated or Native?",
+                  "type": "url",
+                  "url": "https://social.msdn.microsoft.com/Forums/sqlserver/en-US/a856488b-fbcd-479e-9167-34ddf7ba3e83/how-do-i-find-out-if-ssrs-is-intregrated-or-native?forum=sqlreportingservices"
+               }, {
+                  "date_added": "13289470402567325",
+                  "date_last_used": "0",
+                  "guid": "e296414c-5723-4837-b470-8d98f1729f7d",
+                  "id": "228",
+                  "name": "How to: Switch Server Modes (Reporting Services Configuration) | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2008-r2/bb326407(v=sql.105)?redirectedfrom=MSDN"
+               }, {
+                  "date_added": "13289653641231757",
+                  "date_last_used": "0",
+                  "guid": "ecc8f22e-e312-4799-af62-0ffdce4b061e",
+                  "id": "229",
+                  "name": "How to configure reporting services (SSRS) for Native integrated mode",
+                  "type": "url",
+                  "url": "https://www.sqlshack.com/how-to-configure-reporting-services-ssrs-for-native-mode/"
+               }, {
+                  "date_added": "13290054586881133",
+                  "date_last_used": "0",
+                  "guid": "7033815e-e51f-4a47-968f-9fb2a0f0168d",
+                  "id": "230",
+                  "name": "Retrieving Deadlock Graphs with SQL Server 2008 Extended Events – SQLServerCentral",
+                  "type": "url",
+                  "url": "https://www.sqlservercentral.com/articles/retrieving-deadlock-graphs-with-sql-server-2008-extended-events-1"
+               }, {
+                  "date_added": "13308656272347872",
+                  "date_last_used": "0",
+                  "guid": "d8b9c20e-0fec-4ca5-93fd-fbf6bd46592a",
+                  "id": "287",
+                  "name": "SQL Server IDENTITY System Function Comparison",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertip/5079/sql-server-identity-system-function-comparison/"
+               }, {
+                  "date_added": "13328771596754937",
+                  "date_last_used": "0",
+                  "guid": "daae6620-a707-4ee1-8b74-e94b02311207",
+                  "id": "340",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "How to get Quarter’s Start and End Date for a given date in Sql Server | SqlHints.com",
+                  "type": "url",
+                  "url": "https://sqlhints.com/2013/07/20/how-to-get-quarter-start-end-date-sql-server/"
+               }, {
+                  "date_added": "13348916627678043",
+                  "date_last_used": "0",
+                  "guid": "a5da9445-7351-4bf9-b218-00a92a22c107",
+                  "id": "391",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "SQL online courses | LearnSQL.com",
+                  "type": "url",
+                  "url": "https://learnsql.com/"
+               }, {
+                  "date_added": "13354121119427970",
+                  "date_last_used": "0",
+                  "guid": "db4f29c9-2b96-4462-90c1-3f9c4ccc6da6",
+                  "id": "405",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "SQL Server 2022 T-SQL Enhancements",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertip/7265/sql-server-2022-t-sql-enhancements/"
+               }, {
+                  "date_added": "13357222434596134",
+                  "date_last_used": "0",
+                  "guid": "042ae3b7-a8ba-4f2d-873f-893ad6598f74",
+                  "id": "420",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Managing SQL Server Services with PowerShell | Database Journal",
+                  "type": "url",
+                  "url": "https://www.databasejournal.com/ms-sql/managing-sql-server-services-with-powershell/"
+               }, {
+                  "date_added": "13357831767960507",
+                  "date_last_used": "0",
+                  "guid": "cb86ad39-50f7-470a-b8ee-80e16201b21f",
+                  "id": "422",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Visual Studio 2022 Compatibility | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/visualstudio/releases/2022/compatibility"
+               }, {
+                  "date_added": "13357913162478857",
+                  "date_last_used": "0",
+                  "guid": "6e37cdc4-b1d9-41cf-8c95-581758d9c0b5",
+                  "id": "423",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Upgrading an SSIS package to a newer version of SQL Server: – Software Support",
+                  "type": "url",
+                  "url": "https://support.syniti.com/hc/en-us/articles/5875439051799-Upgrading-an-SSIS-package-to-a-newer-version-of-SQL-Server"
+               }, {
+                  "date_added": "13363259747655454",
+                  "date_last_used": "0",
+                  "guid": "29db6638-9aa7-4ec6-8d24-b841e7f55613",
+                  "id": "428",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Calculate SQL Percentile using the PERCENT_RANK function in SQL Server",
+                  "type": "url",
+                  "url": "https://www.sqlshack.com/calculate-sql-percentile-using-the-sql-server-percent_rank-function/"
+               }, {
+                  "date_added": "13367266864618945",
+                  "date_last_used": "0",
+                  "guid": "edc7ec91-10a0-404d-bc8c-1dab3a76046c",
+                  "id": "438",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Running a SSIS Package from SQL Server Agent Using a Proxy Account",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertip/2163/running-a-ssis-package-from-sql-server-agent-using-a-proxy-account/"
+               }, {
+                  "date_added": "13368897638554493",
+                  "date_last_used": "0",
+                  "guid": "573c9b35-1ca6-4810-accf-4e70dec7f8eb",
+                  "id": "440",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Microsoft Fabric documentation - Microsoft Fabric | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/fabric/"
+               }, {
+                  "date_added": "13370602275623046",
+                  "date_last_used": "13370694186576496",
+                  "guid": "01ca5af5-cf45-425f-b9ae-c126671762c9",
+                  "id": "442",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "SQL Server Query Store - Overview",
+                  "type": "url",
+                  "url": "https://www.sqlshack.com/sql-server-query-store-overview/"
+               }, {
+                  "date_added": "13370667046227070",
+                  "date_last_used": "0",
+                  "guid": "48a58d5c-b568-45a7-8924-61c1416d7eab",
+                  "id": "443",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Optimized plan forcing with Query Store - SQL Server | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/sql/relational-databases/performance/optimized-plan-forcing-query-store?view=sql-server-ver16"
+               }, {
+                  "date_added": "13370667097802690",
+                  "date_last_used": "13370694228065717",
+                  "guid": "787c43fd-471e-469b-a51c-3b2596d5fca6",
+                  "id": "444",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "How to Optimize SQL Queries: Helpful Tips and Techniques | Apriorit",
+                  "type": "url",
+                  "url": "https://www.apriorit.com/dev-blog/381-sql-query-optimization"
+               }, {
+                  "date_added": "13370667184458043",
+                  "date_last_used": "0",
+                  "guid": "df3e7c0d-516a-4623-8b42-41d4c28026c5",
+                  "id": "445",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Best practices for managing the Query Store - SQL Server | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/sql/relational-databases/performance/manage-the-query-store?view=sql-server-ver16&tabs=ssms"
+               }, {
+                  "date_added": "13370667199353291",
+                  "date_last_used": "13370694355562354",
+                  "guid": "005ba50a-88fb-40f4-939f-98c77d5004b7",
+                  "id": "446",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Post-migration validation and optimization guide - SQL Server | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/sql/relational-databases/post-migration-validation-and-optimization-guide?view=sql-server-ver16"
+               }, {
+                  "date_added": "13374060330222422",
+                  "date_last_used": "0",
+                  "guid": "2729cba1-c877-48ba-b940-75eeaaf816a9",
+                  "id": "452",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "SQL Query Optimization: 12 Useful Performance Tuning Tips and Techniques",
+                  "type": "url",
+                  "url": "https://blog.devart.com/how-to-optimize-sql-query.html#missing-indexes"
+               } ],
+               "date_added": "13284728604729572",
+               "date_last_used": "0",
+               "date_modified": "13376656345640695",
+               "guid": "7029f343-a81f-4488-a798-d967d216ea96",
+               "id": "192",
+               "name": "SQL Server",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13284712413060114",
+                  "date_last_used": "0",
+                  "guid": "9032b244-7b15-4776-b819-415c40d81866",
+                  "id": "185",
+                  "name": "Set Partition Writeback | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/analysis-services/multidimensional-models/set-partition-writeback?view=asallproducts-allversions"
+               }, {
+                  "date_added": "13284712458938413",
+                  "date_last_used": "0",
+                  "guid": "733cb9f7-59a7-4ca8-b780-3fe0dfdd43dc",
+                  "id": "188",
+                  "name": "Define the Ordering for a Dimension | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/analysis-services/multidimensional-models/bi-wizard-define-the-ordering-for-a-dimension?view=asallproducts-allversions"
+               }, {
+                  "date_added": "13284717157554333",
+                  "date_last_used": "0",
+                  "guid": "b4940583-f0c9-43bb-9f22-448bf65a9d3f",
+                  "id": "189",
+                  "name": "Moving writeback data in the Fact tables and avoiding problems with changing column names – Boyan Penev on Microsoft BI",
+                  "type": "url",
+                  "url": "https://bpmsbi.wordpress.com/2009/01/12/moving-writeback-data-in-fact-tables/"
+               }, {
+                  "date_added": "13284717192337987",
+                  "date_last_used": "0",
+                  "guid": "b1133775-ec1b-475c-87d3-2d24280ad546",
+                  "id": "190",
+                  "name": "Writeback on OLAP Cubes – Support Topics",
+                  "type": "url",
+                  "url": "https://support.jetglobal.com/hc/en-us/articles/219401527-Writeback-on-OLAP-Cubes"
+               }, {
+                  "date_added": "13261719106732009",
+                  "date_last_used": "0",
+                  "guid": "3d99cdc6-10de-4a2c-a08f-7224804d8b1a",
+                  "id": "132",
+                  "name": "SSAS Troubleshooting: A string store of binary store with a compatibility level of '1050' is at the maximum file size of 4 gigabytes - TechNet Articles - United States (English) - TechNet Wiki",
+                  "type": "url",
+                  "url": "https://social.technet.microsoft.com/wiki/contents/articles/28498.ssas-troubleshooting-a-string-store-of-binary-store-with-a-compatibility-level-of-1050-is-at-the-maximum-file-size-of-4-gigabytes.aspx"
+               }, {
+                  "date_added": "13290923062876873",
+                  "date_last_used": "0",
+                  "guid": "ee3137f7-c21b-4648-a960-28e5579a3e0e",
+                  "id": "249",
+                  "name": "Retrieve the MDX queries generated by Excel - Ben's Blog",
+                  "type": "url",
+                  "url": "https://datakuity.com/2021/11/29/retrieve-mdx-queries-generated-by-excel/"
+               }, {
+                  "date_added": "13292515338912183",
+                  "date_last_used": "0",
+                  "guid": "1d0daddf-575e-48c6-8b85-712539375678",
+                  "id": "254",
+                  "name": "Write-Enabling a Cube - Analysis Services Documentation",
+                  "type": "url",
+                  "url": "https://documentation.help/olapdmad/agwriteback_8p2d.htm"
+               }, {
+                  "date_added": "13292591918807248",
+                  "date_last_used": "0",
+                  "guid": "75520004-f05a-4948-a7ee-bb0b99746b00",
+                  "id": "255",
+                  "name": "SSAS Writeback | Vikas D More",
+                  "type": "url",
+                  "url": "https://moredvikas.wordpress.com/2016/08/10/ssas-writeback/"
+               }, {
+                  "date_added": "13302097205419266",
+                  "date_last_used": "0",
+                  "guid": "26028d8f-5f03-41b8-a87d-98a2bfb961da",
+                  "id": "280",
+                  "name": "IsLeaf (MDX)",
+                  "type": "url",
+                  "url": "https://www.iccube.com/support/documentation/mdx/IsLeaf.php"
+               }, {
+                  "date_added": "13303582864030954",
+                  "date_last_used": "0",
+                  "guid": "53d833ac-4a4f-428d-9691-4265f8ba3fda",
+                  "id": "283",
+                  "name": "Using XMLA Command to Clear Cache of a SQL Server Analysis Service Database",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertip/2095/using-xmla-command-to-clear-cache-of-a-sql-server-analysis-service-database/"
+               }, {
+                  "date_added": "13303890354344089",
+                  "date_last_used": "0",
+                  "guid": "b086266c-09f7-41e6-9e9c-88ef2b52084b",
+                  "id": "285",
+                  "name": "Change Data Source for All Pivot Tables – Contextures Blog",
+                  "type": "url",
+                  "url": "https://contexturesblog.com/archives/2012/04/19/change-data-source-for-all-pivot-tables/"
+               }, {
+                  "date_added": "13313773372661774",
+                  "date_last_used": "0",
+                  "guid": "7fedfe3d-9406-477e-b524-8cc94c0b9d11",
+                  "id": "296",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Pass Multi value parameter to subreport in dirll through report ssrs",
+                  "type": "url",
+                  "url": "https://social.msdn.microsoft.com/Forums/en-US/c51c9873-adab-411c-aac3-e7436caebb28/pass-multi-value-parameter-to-subreport-in-dirll-through-report-ssrs?forum=aspsqlserverreporting"
+               }, {
+                  "date_added": "13365396747471355",
+                  "date_last_used": "0",
+                  "guid": "c349e42f-9c7c-4a91-9137-740d3b0db3e1",
+                  "id": "431",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "KB4134601 - FIX: \"Could not load file or assembly 'Microsoft.AnalysisServices.AdomdClientUI'\" error when a \"Process Full\" operation is run in SQL Server - Microsoft Support",
+                  "type": "url",
+                  "url": "https://support.microsoft.com/en-us/topic/kb4134601-fix-could-not-load-file-or-assembly-microsoft-analysisservices-adomdclientui-error-when-a-process-full-operation-is-run-in-sql-server-55ccd19d-24e6-7255-cd16-3a96aabe9418"
+               }, {
+                  "date_added": "13366002450976540",
+                  "date_last_used": "0",
+                  "guid": "e522de93-001b-4166-9f4f-fa21fad9666c",
+                  "id": "433",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Error: Could not load file or assembly 'Microsoft.AnalysisServices, Version=11.0.0.0; Culture=neutral, PublicKeyToken=89845dcd8080cc91' or one of its dependencies. The system cannot find the file specified.- When deploying the Data Mart installing SP20",
+                  "type": "url",
+                  "url": "https://kb.blackbaud.com/knowledgebase/Article/190314"
+               }, {
+                  "date_added": "13366002538180624",
+                  "date_last_used": "0",
+                  "guid": "7a670050-843b-4899-b4db-4c0c585a31de",
+                  "id": "434",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Download Microsoft® SQL Server® 2012 Feature Pack from Official Microsoft Download Center",
+                  "type": "url",
+                  "url": "https://www.microsoft.com/en-us/download/details.aspx?id=29065"
+               }, {
+                  "date_added": "13366002774078660",
+                  "date_last_used": "0",
+                  "guid": "fbf41e50-4de6-4757-8589-ec424dfb970b",
+                  "id": "435",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "SQL Server 2019 build versions (KB4518398) - SQL Server | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2019/build-versions"
+               } ],
+               "date_added": "13284712451649301",
+               "date_last_used": "0",
+               "date_modified": "13366174893540798",
+               "guid": "c39d90b2-eb21-49ec-94b1-592445f782a7",
+               "id": "187",
+               "name": "SSAS",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13260449502908317",
+                  "date_last_used": "13366192379958106",
+                  "guid": "57ebe140-5865-4511-b2e7-08fa52583dd5",
+                  "id": "130",
+                  "name": "Find SSIS Package Stuck in Running Status",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertip/6060/find-ssis-package-stuck-in-running-status/"
+               }, {
+                  "date_added": "13249060659269304",
+                  "date_last_used": "13366192396780375",
+                  "guid": "13b5cc4c-0d9b-4482-94c0-9f9b69378aaf",
+                  "id": "111",
+                  "name": "Integration Services Error and Message Reference - SQL Server Integration Services (SSIS) | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/sql/integration-services/integration-services-error-and-message-reference?view=sql-server-ver15"
+               }, {
+                  "date_added": "13269493862546762",
+                  "date_last_used": "0",
+                  "guid": "33e3503b-07b5-4345-ae7c-e92899a57ade",
+                  "id": "147",
+                  "name": "#0391 – SQL Server – SSIS – OLE DB Destination – Table Fast Load – Performance – Table Lock option | SQLTwins by Nakul Vachhrajani",
+                  "type": "url",
+                  "url": "https://nakulvachhrajani.com/2016/10/24/0391-sql-server-ssis-ole-db-destination-table-fast-load-performance-table-lock-option/"
+               }, {
+                  "date_added": "13290100040147605",
+                  "date_last_used": "0",
+                  "guid": "0b4aeb3d-20b5-4a65-8607-702d1fc15516",
+                  "id": "231",
+                  "name": "How To Consume Web API Through SSIS Package",
+                  "type": "url",
+                  "url": "https://www.c-sharpcorner.com/article/how-to-consume-web-api-through-ssis-package/"
+               }, {
+                  "date_added": "13290331383981657",
+                  "date_last_used": "0",
+                  "guid": "425ec09b-43f5-4865-929a-8b0ae2f02d46",
+                  "id": "234",
+                  "name": "SSIS Web API Integration Pack (REST API,SOAP,JSON/XML) | ZappySys",
+                  "type": "url",
+                  "url": "https://zappysys.com/products/ssis-powerpack/ssis-web-api-integration-pack/?gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF593ahJ6s0_3hiFzAiVKz7tfMnPH_wZeR0zOLPWkIaUKgCIIgPFrYIaAl_eEALw_wcB"
+               }, {
+                  "date_added": "13293423225514163",
+                  "date_last_used": "0",
+                  "guid": "3585c8f4-cb51-4fc2-b529-b57497f4a879",
+                  "id": "256",
+                  "name": "SSIS - Transfer data from Multiple tables using a single DFT - TechNet Articles - United States (English) - TechNet Wiki",
+                  "type": "url",
+                  "url": "https://social.technet.microsoft.com/wiki/contents/articles/33564.ssis-transfer-data-from-multiple-tables-using-a-single-dft.aspx"
+               }, {
+                  "date_added": "13293423367632580",
+                  "date_last_used": "0",
+                  "guid": "f16138aa-7ab0-4a9c-a5f3-dedc90861127",
+                  "id": "257",
+                  "name": "Using the SSIS Script Component as a Data Source",
+                  "type": "url",
+                  "url": "https://www.sqlshack.com/using-the-ssis-script-component-as-a-data-source/"
+               }, {
+                  "date_added": "13297516035479270",
+                  "date_last_used": "0",
+                  "guid": "83210b52-6e47-4e30-9c30-e0a50d6484d9",
+                  "id": "267",
+                  "name": "Upgrade and Migrate SSIS Catalog and SSISDB to a New Server",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertip/6831/how-to-migrate-ssisdb-to-another-server/#:~:text=Right%20click%20the%20project%20and,older%20version%20to%20SQL%202019."
+               }, {
+                  "date_added": "13298048242854594",
+                  "date_last_used": "0",
+                  "guid": "64e21508-1109-4567-b397-555af4cc3bc1",
+                  "id": "269",
+                  "name": "Merging Data into a SharePoint list using SSIS | The Chris Kent",
+                  "type": "url",
+                  "url": "https://thechriskent.com/2012/06/19/merging-data-into-a-sharepoint-list-using-ssis/"
+               }, {
+                  "date_added": "13299313374973050",
+                  "date_last_used": "0",
+                  "guid": "3a5afc17-a240-4391-bce6-aaaff085de19",
+                  "id": "273",
+                  "name": "A deadlock was detected while trying to lock variables in SSIS – SQLIS.com",
+                  "type": "url",
+                  "url": "https://sqlis.com/A-deadlock-was-detected-while-trying-to-lock-variables-in-SSIS/"
+               }, {
+                  "date_added": "13299313396014441",
+                  "date_last_used": "0",
+                  "guid": "353076eb-000b-4378-b029-0d8f325c4ba1",
+                  "id": "274",
+                  "name": "ssis - A deadlock was detected while trying to lock variables. A lock cannot be acquired after 16 attempts. The locks timed out - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/46737654/a-deadlock-was-detected-while-trying-to-lock-variables-a-lock-cannot-be-acquire"
+               }, {
+                  "date_added": "13366174893540798",
+                  "date_last_used": "13366299971557154",
+                  "guid": "b311e4b7-ecfe-405e-b5fc-b724ad777536",
+                  "id": "436",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Errors in script tasks and components [RichardSwinbank.net]",
+                  "type": "url",
+                  "url": "https://richardswinbank.net/ssis/errors_in_script_tasks_and_components"
+               } ],
+               "date_added": "13284712451649003",
+               "date_last_used": "0",
+               "date_modified": "13367266864618945",
+               "guid": "dba38725-5f89-4c35-bee7-78424c5d1fe9",
+               "id": "186",
+               "name": "SSIS",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13278511653341377",
+                  "date_last_used": "13350984689189807",
+                  "guid": "9a133350-a7f6-4a91-af60-23c23aaf9f46",
+                  "id": "175",
+                  "name": "Python Examples | Programiz",
+                  "type": "url",
+                  "url": "https://www.programiz.com/python-programming/examples"
+               }, {
+                  "date_added": "13349370993417329",
+                  "date_last_used": "13350984659167823",
+                  "guid": "e29fecc2-6122-4ab6-ac6f-983d72018b42",
+                  "id": "396",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Getting Started With Jupyter Network",
+                  "type": "url",
+                  "url": "https://www.simplilearn.com/tutorials/python-tutorial/jupyter-notebook"
+               }, {
+                  "date_added": "13349371019569699",
+                  "date_last_used": "0",
+                  "guid": "85033705-69e1-444b-a85f-7699246ccea3",
+                  "id": "397",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "JupyterNotebookBasics",
+                  "type": "url",
+                  "url": "http://localhost:8888/notebooks/JupyterNotebookBasics.ipynb"
+               }, {
+                  "date_added": "13349371027159763",
+                  "date_last_used": "0",
+                  "guid": "64829890-71f1-4e01-8aff-900b0823c5fd",
+                  "id": "398",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Home Note book",
+                  "type": "url",
+                  "url": "http://localhost:8888/tree"
+               }, {
+                  "date_added": "13349371057445532",
+                  "date_last_used": "13350984557046752",
+                  "guid": "4f47175f-6800-4a9c-a301-0bade014e64d",
+                  "id": "399",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Pandas Tutorial",
+                  "type": "url",
+                  "url": "https://www.w3schools.com/python/pandas/default.asp"
+               }, {
+                  "date_added": "13349371063641175",
+                  "date_last_used": "13350984676254247",
+                  "guid": "9cdf9c88-8da7-4f1b-ac99-f25fa3dbbb25",
+                  "id": "400",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Cookbook — pandas 2.1.4 documentation",
+                  "type": "url",
+                  "url": "https://pandas.pydata.org/docs/user_guide/cookbook.html#cookbook"
+               }, {
+                  "date_added": "13349371072629967",
+                  "date_last_used": "0",
+                  "guid": "0a674615-54b7-4fe4-8d30-b07d7753e639",
+                  "id": "401",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "10 minutes to pandas — pandas 2.1.4 documentation",
+                  "type": "url",
+                  "url": "https://pandas.pydata.org/docs/user_guide/10min.html"
+               } ],
+               "date_added": "13278511672380343",
+               "date_last_used": "0",
+               "date_modified": "13351248469989976",
+               "guid": "c716b1cd-7d18-4bbc-87c9-eb9bff3247ac",
+               "id": "176",
+               "name": "Python",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13314979274959624",
+                  "date_last_used": "13375870819861913",
+                  "guid": "9d3dbdfc-c2ee-4dd2-b9c9-b9b9cdd5386f",
+                  "id": "298",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "The Data Cloud | Snowflake",
+                  "type": "url",
+                  "url": "https://www.snowflake.com/en/"
+               } ],
+               "date_added": "13314979308061200",
+               "date_last_used": "0",
+               "date_modified": "13314979308061296",
+               "guid": "838bf5d8-d981-401a-bf19-d929362921d3",
+               "id": "299",
+               "name": "Snowflake",
+               "type": "folder"
+            }, {
+               "date_added": "13224333804453090",
+               "date_last_used": "13321460673823952",
+               "guid": "fcafca16-eb7e-48ea-9b0a-d661a2ae67e2",
+               "id": "25",
+               "name": "Format SQL Statements Online - sqlformat.org",
+               "type": "url",
+               "url": "https://sqlformat.org/#result"
+            }, {
+               "date_added": "13224611507470236",
+               "date_last_used": "0",
+               "guid": "f570f7f0-4d30-4ab3-9861-d335b7cc3a54",
+               "id": "33",
+               "name": "Bitwise operation - Wikipedia",
+               "type": "url",
+               "url": "https://en.wikipedia.org/wiki/Bitwise_operation#XOR"
+            }, {
+               "date_added": "13226500078526116",
+               "date_last_used": "0",
+               "guid": "38e48d33-3a10-4e51-87c4-2fb779593ac5",
+               "id": "47",
+               "name": "Filtering Columns - SQLBI",
+               "type": "url",
+               "url": "https://www.sqlbi.com/daxpuzzle/filtering-columns/"
+            }, {
+               "date_added": "13232090441796678",
+               "date_last_used": "0",
+               "guid": "331d642b-adac-4c42-acd1-1558eeb696d2",
+               "id": "81",
+               "name": "100 Useful Performance Review Phrases",
+               "type": "url",
+               "url": "https://www.tinypulse.com/blog/sk-useful-phrases-performance-reviews"
+            }, {
+               "date_added": "13270835320310539",
+               "date_last_used": "0",
+               "guid": "641b9880-c674-41a7-901b-e8493c307de9",
+               "id": "158",
+               "name": "ALL Ameerpet Notes - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/drive/u/0/folders/1iciKFwBAlxtTr56HgSq2M8AA3PRifoRn"
+            }, {
+               "date_added": "13284454344399691",
+               "date_last_used": "0",
+               "guid": "2bb710a3-8188-4e6c-b683-400f0f4e3985",
+               "id": "183",
+               "name": "SQL Server Management Studio Keyboard Shortcuts",
+               "type": "url",
+               "url": "https://www.mssqltips.com/sqlservertip/6431/sql-server-management-studio-keyboard-shortcuts/"
+            }, {
+               "date_added": "13290323836753057",
+               "date_last_used": "0",
+               "guid": "b3f459d1-9129-4cf8-97b2-c250e6f8aa4d",
+               "id": "232",
+               "name": "Downloads - Visual Studio Subscriptions Portal",
+               "type": "url",
+               "url": "https://my.visualstudio.com/Downloads?q=visual%20studio%202012%20update%205&pgroup="
+            }, {
+               "date_added": "13290331021912650",
+               "date_last_used": "0",
+               "guid": "5bc766e8-0dc3-4882-8c10-153a476be707",
+               "id": "233",
+               "name": "NuGet Package Manager - Visual Studio Marketplace",
+               "type": "url",
+               "url": "https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager"
+            }, {
+               "children": [ {
+                  "date_added": "13290516477644665",
+                  "date_last_used": "0",
+                  "guid": "73dbd427-4b13-4218-a421-e2bfd354add6",
+                  "id": "236",
+                  "name": "Reading SharePoint Lists with Integration Services 2017",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertip/1733/reading-sharepoint-lists-with-integration-services-2017/"
+               }, {
+                  "date_added": "13290516505269050",
+                  "date_last_used": "0",
+                  "guid": "1d6ccf8d-ec4d-4eaf-abb8-92f321c0e9b3",
+                  "id": "238",
+                  "name": "Download Microsoft® OData Source for Microsoft SQL Server® 2012 from Official Microsoft Download Center",
+                  "type": "url",
+                  "url": "https://www.microsoft.com/en-us/download/confirmation.aspx?id=42280"
+               }, {
+                  "date_added": "13290516817949180",
+                  "date_last_used": "0",
+                  "guid": "3c4faeca-2c94-4bf3-b37b-aff14b44519b",
+                  "id": "239",
+                  "name": "Using the OData Source in SSIS",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertip/3220/using-the-odata-source-in-sql-server-integration-services/"
+               }, {
+                  "date_added": "13290516996324897",
+                  "date_last_used": "0",
+                  "guid": "28157975-9e97-4b02-8d50-bd4fbb1880af",
+                  "id": "240",
+                  "name": "Connecting to SharePoint Lists with SSIS - Tim Mitchell",
+                  "type": "url",
+                  "url": "https://www.timmitchell.net/post/2021/01/08/connecting-to-sharepoint-lists-with-ssis/"
+               }, {
+                  "date_added": "13290517157442254",
+                  "date_last_used": "0",
+                  "guid": "f000596a-bd9c-42c0-a938-fcf9834284df",
+                  "id": "241",
+                  "name": "Using the SSIS OData Source Connector With SharePoint Online Authentication – The White Pages",
+                  "type": "url",
+                  "url": "https://whitepages.unlimitedviz.com/2014/03/using-the-odata-source-connector-with-sharepoint-online-authentication/"
+               }, {
+                  "date_added": "13290524014454905",
+                  "date_last_used": "0",
+                  "guid": "53b038c1-494a-4057-ad9b-31386988c793",
+                  "id": "242",
+                  "name": "PnP PowerShell: Connect-PnPOnline using ClientID and ClientSecret - SharePoint Diary",
+                  "type": "url",
+                  "url": "https://www.sharepointdiary.com/2019/03/connect-pnponline-with-appid-and-appsecret.html"
+               }, {
+                  "date_added": "13290595150853469",
+                  "date_last_used": "0",
+                  "guid": "1290f0f6-82cc-4103-82ac-9110ebbfb653",
+                  "id": "243",
+                  "name": "SSIS OData Connection with SP Online in combination with MFA – powerbinerd",
+                  "type": "url",
+                  "url": "https://powerbinerd.wordpress.com/2019/06/13/ssis-odata-connection-with-sp-online-in-combination-with-mfa/"
+               }, {
+                  "date_added": "13290616188969925",
+                  "date_last_used": "0",
+                  "guid": "2dfe349f-ff3d-4b7f-8f09-490105d6807f",
+                  "id": "244",
+                  "name": "Use a SharePoint List as a Data Source in a SSRS Report - Technical Overload : Technical Overload",
+                  "type": "url",
+                  "url": "https://www.technicaloverload.com/use-sharepoint-list-data-source-ssrs-report/"
+               }, {
+                  "date_added": "13290618402731704",
+                  "date_last_used": "0",
+                  "guid": "9648e32f-a331-421f-bb59-949044da1ced",
+                  "id": "245",
+                  "name": "Use sharepoint Online list as datasource in ssrs report (on prem) - Microsoft Q&A",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/answers/questions/257632/use-sharepoint-online-list-as-datasource-in-ssrs-r.html"
+               }, {
+                  "date_added": "13290761690728141",
+                  "date_last_used": "0",
+                  "guid": "6cf726ba-0030-400b-82da-ebf9c67335fd",
+                  "id": "246",
+                  "name": "Use SharePoint Online List As A Data Source In Power BI",
+                  "type": "url",
+                  "url": "https://www.c-sharpcorner.com/article/use-sharepoint-online-list-as-a-data-source-in-power-bi/"
+               }, {
+                  "date_added": "13299746067470592",
+                  "date_last_used": "0",
+                  "guid": "f3c9befe-6309-4cc8-a82a-7f30196d9edb",
+                  "id": "275",
+                  "name": "Create a task in SharePoint Migration Tool (SPMT) - Migrate to Microsoft 365 | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/sharepointmigration/spmt-create-task"
+               }, {
+                  "date_added": "13299746119078805",
+                  "date_last_used": "0",
+                  "guid": "fbad5b6f-67e6-43a5-a9b1-746b89db0d06",
+                  "id": "276",
+                  "name": "Troubleshoot SharePoint Migration Tool - Migrate to Microsoft 365 | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/sharepointmigration/troubleshooting-common-spmt-issues"
+               }, {
+                  "date_added": "13299746135320370",
+                  "date_last_used": "0",
+                  "guid": "d5feb538-feca-47e9-96c9-cdfc7d4dc813",
+                  "id": "277",
+                  "name": "5 ways to enable Custom Scripts for a SharePoint site collection",
+                  "type": "url",
+                  "url": "https://www.koskila.net/how-to-enable-custom-scripts-for-a-sharepoint-online-site-collection/"
+               }, {
+                  "date_added": "13299817350421674",
+                  "date_last_used": "0",
+                  "guid": "f448594f-67fd-47cd-94fa-718f1c6f82ed",
+                  "id": "278",
+                  "name": "User permissions and permission levels in SharePoint Server - SharePoint Server | Microsoft Docs",
+                  "type": "url",
+                  "url": "https://docs.microsoft.com/en-us/sharepoint/sites/user-permissions-and-permission-levels"
+               }, {
+                  "date_added": "13311438507332039",
+                  "date_last_used": "0",
+                  "guid": "b1a2eda1-9a08-4726-9441-3ad888a14b33",
+                  "id": "294",
+                  "name": "Microsoft Edge - Bad Request - Headers Too Long issue - Microsoft Community",
+                  "type": "url",
+                  "url": "https://answers.microsoft.com/en-us/microsoftedge/forum/all/microsoft-edge-bad-request-headers-too-long-issue/558b7b09-87f9-42d4-a050-681075152a1e"
+               } ],
+               "date_added": "13290516498908599",
+               "date_last_used": "0",
+               "date_modified": "13311438530083922",
+               "guid": "f9511423-4a5e-4344-8b43-97e2542079aa",
+               "id": "237",
+               "name": "SharePoint-SSIS",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13290762000011660",
+                  "date_last_used": "0",
+                  "guid": "858b4f3e-2b09-474d-b147-554d8a6737dd",
+                  "id": "247",
+                  "name": "Introduction to Master Data Services in SQL Server 2012",
+                  "type": "url",
+                  "url": "https://www.slideshare.net/stephanefrechette/introduction-to-master-data-services-in-sql-server-2012?next_slideshow=22225696"
+               }, {
+                  "date_added": "13291368574174854",
+                  "date_last_used": "0",
+                  "guid": "c88cdee4-a640-4126-a3c2-1d92464a7c54",
+                  "id": "251",
+                  "name": "Using Master Data Services in SQL Server to quickly create a GUI that may be maintained by the end user",
+                  "type": "url",
+                  "url": "https://www.sqlshack.com/using-master-data-services-to-create-gui-maintained-by-end-user/"
+               }, {
+                  "date_added": "13291382265612161",
+                  "date_last_used": "0",
+                  "guid": "00395729-6573-4db2-9eac-49e3103ff19c",
+                  "id": "252",
+                  "name": "Introduction to SQL Server 2012 Master Data Services and Data Quality Services by Peter Myers - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=vrKHFxlqa5c"
+               }, {
+                  "date_added": "13296241274941257",
+                  "date_last_used": "0",
+                  "guid": "5a4f1703-2f5f-4fdf-842e-baed2128c681",
+                  "id": "261",
+                  "name": "Purge an Entity in Master Data Services 2016",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertip/4588/purge-an-entity-in-master-data-services-2016/"
+               }, {
+                  "date_added": "13296242697815073",
+                  "date_last_used": "0",
+                  "guid": "9be36add-d086-462d-ac38-f46f401f6cd8",
+                  "id": "262",
+                  "name": "Publishing SQL Server Master Data Services Data",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertip/4290/publishing-sql-server-master-data-services-data/"
+               }, {
+                  "date_added": "13296242706949022",
+                  "date_last_used": "0",
+                  "guid": "e7f7462d-1512-4c27-84cf-057bf2ac5b82",
+                  "id": "263",
+                  "name": "SQL Server Master Data Services Publishing Data",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertutorial/3809/sql-server-master-data-services-publishing-data/"
+               }, {
+                  "date_added": "13308656738284837",
+                  "date_last_used": "0",
+                  "guid": "034757ca-55e7-48a9-a6f1-5df332ecbfe8",
+                  "id": "288",
+                  "name": "Purge an Entity in Master Data Services 2016",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertip/4588/purge-an-entity-in-master-data-services-2016/#:~:text=Purging%20an%20entity%20in%20Master%20Data%20Services&text=In%20the%20MDS%20explorer%2C%20you,the%20member%20prior%20to%20deletion.&text=The%20only%20way%20to%20revert,member%20with%20code%20B%20first."
+               } ],
+               "date_added": "13290762015178048",
+               "date_last_used": "0",
+               "date_modified": "13308925100151680",
+               "guid": "2719a4e3-c8e3-425a-a9af-64cc65594b29",
+               "id": "248",
+               "name": "MDS",
+               "type": "folder"
+            }, {
+               "date_added": "13298466183096507",
+               "date_last_used": "0",
+               "guid": "c28dd8ae-2b43-4028-b5bd-7a952434d507",
+               "id": "271",
+               "name": "(83) [Solved] Excel corrupts file after refreshing Pivot table | LinkedIn",
+               "type": "url",
+               "url": "https://www.linkedin.com/pulse/solved-excel-corrupts-file-after-refreshing-pivot-table-chouhan/"
+            }, {
+               "date_added": "13315415483647589",
+               "date_last_used": "13334326540411723",
+               "guid": "27214a0d-5827-4d1e-bcbe-92ddf15d8208",
+               "id": "301",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Paraphrasing Tool | QuillBot AI",
+               "type": "url",
+               "url": "https://quillbot.com/?utm_medium=paid_search&utm_source=google&utm_campaign=paraphrase_developing_brand&campaign_type=search"
+            }, {
+               "date_added": "13315561499910977",
+               "date_last_used": "13348739068008570",
+               "guid": "de09eed3-5160-4ff7-a0ca-00d667175332",
+               "id": "302",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Data Engineering Simplified - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@DataEngineering/playlists"
+            }, {
+               "children": [ {
+                  "date_added": "13315668704068307",
+                  "date_last_used": "0",
+                  "guid": "0e4d8d92-5642-407d-aa4a-a195a95d5d22",
+                  "id": "305",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Spark Full Course | Spark Tutorial For Beginners | Learn Apache Spark | Simplilearn - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=S2MUhGA3lEw"
+               }, {
+                  "date_added": "13317303351750285",
+                  "date_last_used": "0",
+                  "guid": "f0a50bee-433e-47ad-a3b6-c7ede3dbd475",
+                  "id": "308",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "SIT [BR1 and BR2] | Microsoft Teams",
+                  "type": "url",
+                  "url": "https://teams.microsoft.com/_#/conversations/19:54c4b2216aba4990b5449a99a3f0ec38@thread.v2?ctx=chat"
+               } ],
+               "date_added": "13315668745882845",
+               "date_last_used": "0",
+               "date_modified": "13317474744187527",
+               "guid": "bee5fa68-43e9-4836-8c1e-d1a52dda95b9",
+               "id": "306",
+               "name": "Spark",
+               "type": "folder"
+            }, {
+               "date_added": "13317474744187527",
+               "date_last_used": "0",
+               "guid": "b5fd38b3-20c7-4120-bcf7-9eac14ba6e99",
+               "id": "310",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ChatGPT: Optimizing Language Models for Dialogue",
+               "type": "url",
+               "url": "https://openai.com/blog/chatgpt/"
+            }, {
+               "date_added": "13318336444298607",
+               "date_last_used": "13333197924540537",
+               "guid": "ae9cd172-8429-4b0a-95ca-4854a847ce9b",
+               "id": "312",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Paraphrasing Tool - QuillBot AI",
+               "type": "url",
+               "url": "https://quillbot.com/"
+            }, {
+               "children": [ {
+                  "date_added": "13319301164736660",
+                  "date_last_used": "0",
+                  "guid": "bc8d3ee6-0375-49e7-837d-4da49b6bce23",
+                  "id": "322",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "SSRS Reporting automation with .NET | SQL from the Trenches",
+                  "type": "url",
+                  "url": "https://devjef.wordpress.com/2016/02/29/ssrs-reporting-automation-with-net/"
+               }, {
+                  "date_added": "13319301188023966",
+                  "date_last_used": "0",
+                  "guid": "ba65b0e6-b827-47a2-9939-83bdc55ac380",
+                  "id": "324",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Download SQL Server Reporting Service (SSRS) report as PDF using C#",
+                  "type": "url",
+                  "url": "https://www.craftedforeveryone.com/download-sql-server-reporting-service-ssrs-report-as-pdf-using-c-sharp/"
+               }, {
+                  "date_added": "13319301237911148",
+                  "date_last_used": "0",
+                  "guid": "83bf58c4-ebee-4dc9-9045-2499bcf3c707",
+                  "id": "325",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "c# - Access Reporting Services Export using WebClient when the report has parameters - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/14356772/access-reporting-services-export-using-webclient-when-the-report-has-parameters"
+               } ],
+               "date_added": "13319301177992466",
+               "date_last_used": "0",
+               "date_modified": "13319301237911148",
+               "guid": "74ef54f5-ec22-426b-a0fd-c83303b0bf9b",
+               "id": "323",
+               "name": "SSRS",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13327667170959632",
+                  "date_last_used": "0",
+                  "guid": "7e270b43-5633-4c55-9f91-41c206384488",
+                  "id": "337",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Developer's guide to peer reviews | TechRepublic",
+                  "type": "url",
+                  "url": "https://www.techrepublic.com/article/developers-guide-to-peer-reviews/"
+               } ],
+               "date_added": "13327667191380068",
+               "date_last_used": "0",
+               "date_modified": "13328771596754937",
+               "guid": "4e52fd76-357f-4f96-a3da-7f0421fe2d89",
+               "id": "338",
+               "name": "Peer Review",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13344156163100963",
+                  "date_last_used": "0",
+                  "guid": "73f440b8-aa7f-48e8-907f-221ccd1715eb",
+                  "id": "378",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Capturing Query Metrics in Azure SQL Database | Data Exposed: MVP Edition - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=v-glE7Ma3AA"
+               }, {
+                  "date_added": "13344156211997326",
+                  "date_last_used": "0",
+                  "guid": "c4c711cc-7f95-491f-8615-bf3f5a10d836",
+                  "id": "380",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "New Features and Enhancements in SQL Server 2022",
+                  "type": "url",
+                  "url": "https://www.sentryone.com/blog/features-and-enhancements-sql-server-2022"
+               }, {
+                  "date_added": "13344156242405464",
+                  "date_last_used": "0",
+                  "guid": "1656d9ef-d778-47a3-895c-d3c39bd6a6fb",
+                  "id": "381",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "SQL Server 2022 vs 2019: comparison - Softtrader",
+                  "type": "url",
+                  "url": "https://softtrader.eu/sql-server-2022-vs-2019/"
+               }, {
+                  "date_added": "13344156265366914",
+                  "date_last_used": "0",
+                  "guid": "858029b3-bae6-4323-aa7c-2955d10f7d6a",
+                  "id": "382",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "SQL Server 2022 New Features",
+                  "type": "url",
+                  "url": "https://www.mssqltips.com/sqlservertip/7441/sql-server-2022-new-features/"
+               }, {
+                  "date_added": "13348845114461729",
+                  "date_last_used": "0",
+                  "guid": "a5ccd6ab-79ed-4dc6-a0da-b8372dce36b9",
+                  "id": "390",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "CUME_DIST (Transact-SQL) - SQL Server | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/sql/t-sql/functions/cume-dist-transact-sql?view=sql-server-ver16"
+               } ],
+               "date_added": "13344156185546416",
+               "date_last_used": "0",
+               "date_modified": "13348916627678043",
+               "guid": "64413220-db35-403b-b0c4-f354845f4d40",
+               "id": "379",
+               "name": "2023",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13344690422825438",
+                  "date_last_used": "0",
+                  "guid": "fc9eb618-37e5-4f38-8379-79e6c138f034",
+                  "id": "384",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "100 Performance Review Phrases & Comments for 2023",
+                  "type": "url",
+                  "url": "https://www.performyard.com/articles/performance-review-example-phrases-comments"
+               }, {
+                  "date_added": "13344690758879546",
+                  "date_last_used": "0",
+                  "guid": "30e40742-a3ad-439d-a416-f3adbab059f7",
+                  "id": "386",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "150+ Helpful Performance Review Phrases for Managers",
+                  "type": "url",
+                  "url": "https://www.superbeings.ai/blog/performance-review-phrases-and-comments"
+               }, {
+                  "date_added": "13344691173563731",
+                  "date_last_used": "0",
+                  "guid": "8e2cd624-6d92-4d51-8fca-e0c63d9aa5a1",
+                  "id": "387",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "24 Performance Review Phrases All Managers Need To Know",
+                  "type": "url",
+                  "url": "https://www.mediatouch.it/en/blog/guest-post-18-performance-review-phrases-all-managers-need-to-know/"
+               }, {
+                  "date_added": "13344691338723385",
+                  "date_last_used": "0",
+                  "guid": "7dc361b8-aa59-4b0b-be7e-8db99b5d1ecb",
+                  "id": "388",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "50 Self-Appraisal Comments For Your Performance Review | Indeed.com India",
+                  "type": "url",
+                  "url": "https://in.indeed.com/career-advice/career-development/self-appraisal-with-top-comments"
+               } ],
+               "date_added": "13344690447829451",
+               "date_last_used": "0",
+               "date_modified": "13348845114461729",
+               "guid": "e2c3bd04-19ab-4502-8c68-c6dcce53390c",
+               "id": "385",
+               "name": "Review Comments",
+               "type": "folder"
+            }, {
+               "date_added": "13349347464650271",
+               "date_last_used": "0",
+               "guid": "7464fe95-ed5c-4bfb-b8ae-52b482695b27",
+               "id": "394",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Training | Microsoft Learn",
+               "type": "url",
+               "url": "https://learn.microsoft.com/en-gb/training/?source=learn"
+            }, {
+               "children": [ {
+                  "date_added": "13354375402855240",
+                  "date_last_used": "0",
+                  "guid": "6d4117c4-4caf-4f53-bc30-34265b11ae70",
+                  "id": "406",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Upgrade Integration Services - SQL Server Integration Services (SSIS) | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/sql/integration-services/install-windows/upgrade-integration-services?view=sql-server-ver16"
+               }, {
+                  "date_added": "13354378384021603",
+                  "date_last_used": "0",
+                  "guid": "751384ad-19e8-45cd-b6fe-1023e249e111",
+                  "id": "408",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Restoring SSAS Cubes to a SQL 2022 Server with CU5 – Data Savvy",
+                  "type": "url",
+                  "url": "https://datasavvy.me/2023/08/18/restoring-ssas-cubes-to-a-sql-2022-server-with-cu5/"
+               }, {
+                  "date_added": "13354641262886521",
+                  "date_last_used": "0",
+                  "guid": "028c320c-9060-4a0f-8a2a-54674e9412fb",
+                  "id": "412",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "vba - Modify an embedded Connection String in microsoft excel macro - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/20114223/modify-an-embedded-connection-string-in-microsoft-excel-macro"
+               }, {
+                  "date_added": "13359121568261624",
+                  "date_last_used": "0",
+                  "guid": "c5161c78-9d9e-472a-94d1-e5d289e669b7",
+                  "id": "425",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "SQL Server Integration Services Projects 2022 - Visual Studio Marketplace",
+                  "type": "url",
+                  "url": "https://marketplace.visualstudio.com/items?itemName=SSIS.MicrosoftDataToolsIntegrationServices"
+               }, {
+                  "date_added": "13359211171381752",
+                  "date_last_used": "0",
+                  "guid": "18fd40a8-8960-4399-8294-8f23744e5e21",
+                  "id": "426",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Paraphrasing Tool - QuillBot AI",
+                  "type": "url",
+                  "url": "https://quillbot.com/paraphrasing-tool"
+               } ],
+               "date_added": "13354375425198673",
+               "date_last_used": "0",
+               "date_modified": "13363259747655454",
+               "guid": "db336be5-53c6-4b7e-b900-876c4ee420f8",
+               "id": "407",
+               "name": "SQL Upgrade",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13354378418408129",
+                  "date_last_used": "0",
+                  "guid": "79b730dd-2f26-4ea2-bbe1-98c346ae2337",
+                  "id": "409",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Delta Lake vs. Data Lake: Unraveling the Differences and Benefits | In-Depth Comparison | Sprinkle Data",
+                  "type": "url",
+                  "url": "https://www.sprinkledata.com/blogs/delta-lake-vs-data-lake-unraveling-the-differences-and-benefits#:~:text=Data%20lakes%20offer%20flexibility%20and,evolution%20support%2C%20and%20performance%20optimization."
+               }, {
+                  "date_added": "13354378471576242",
+                  "date_last_used": "0",
+                  "guid": "88a0b10e-aa7c-4b65-ab74-c1226a3a2c5c",
+                  "id": "411",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "What is a Delta Lake? | Glossary | HPE India",
+                  "type": "url",
+                  "url": "https://www.hpe.com/in/en/what-is/delta-lake.html#:~:text=What%20is%20Delta%20Lake%3F,streaming%2C%20and%20batch%20data%20processing."
+               }, {
+                  "date_added": "13356609858212229",
+                  "date_last_used": "0",
+                  "guid": "d472ccae-a21b-4a91-bff2-2271fe81e9da",
+                  "id": "416",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "colab.google",
+                  "type": "url",
+                  "url": "https://colab.google/"
+               }, {
+                  "date_added": "13356699998565273",
+                  "date_last_used": "0",
+                  "guid": "0f1ef2d3-720d-410a-8333-399acc2b1850",
+                  "id": "418",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Kaggle: Your Machine Learning and Data Science Community",
+                  "type": "url",
+                  "url": "https://www.kaggle.com/"
+               } ],
+               "date_added": "13354378462017402",
+               "date_last_used": "0",
+               "date_modified": "13357222434596134",
+               "guid": "8c732711-d3fa-4ede-aa12-77c05f904fc0",
+               "id": "410",
+               "name": "MS Fabric",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13376656345640695",
+                  "date_last_used": "0",
+                  "guid": "20bcee50-376d-4407-8652-3f1f06e924cf",
+                  "id": "454",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Site reliability engineering documentation | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/azure/site-reliability-engineering/"
+               }, {
+                  "date_added": "13376656404593525",
+                  "date_last_used": "0",
+                  "guid": "b6fe73ff-a088-4092-994b-305e4c1ad730",
+                  "id": "456",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Improve incident response with Azure Monitor alerts - Training | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/training/modules/incident-response-with-alerting-on-azure/"
+               }, {
+                  "date_added": "13376659394002037",
+                  "date_last_used": "0",
+                  "guid": "d7061247-9aa7-4354-9abc-df4da4dc89c3",
+                  "id": "457",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Google - Site Reliability Engineering",
+                  "type": "url",
+                  "url": "https://sre.google/sre-book/service-level-objectives/"
+               }, {
+                  "date_added": "13376665358684854",
+                  "date_last_used": "0",
+                  "guid": "db26db4a-8b87-4128-a71c-3aba700ce12f",
+                  "id": "458",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "What is a Service Level Objective (SLO)? | IBM",
+                  "type": "url",
+                  "url": "https://www.ibm.com/topics/service-level-objective"
+               }, {
+                  "date_added": "13376665473768982",
+                  "date_last_used": "0",
+                  "guid": "1efacac9-4a4a-4c5a-9d03-3d8c39072133",
+                  "id": "459",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Introduction - Training | Microsoft Learn",
+                  "type": "url",
+                  "url": "https://learn.microsoft.com/en-us/training/modules/incident-response-with-alerting-on-azure/1-introduction"
+               } ],
+               "date_added": "13376656366578175",
+               "date_last_used": "0",
+               "date_modified": "13376665473768982",
+               "guid": "032d1194-6348-458d-bd30-9c70097e629a",
+               "id": "455",
+               "name": "SRE",
+               "type": "folder"
+            } ],
+            "date_added": "13224088389374220",
+            "date_last_used": "0",
+            "date_modified": "13349370993417329",
+            "guid": "a4a9b4d3-d9b6-4718-917c-e1edd5c7ca95",
+            "id": "13",
+            "name": "Knowledge Sites",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13224344281088522",
+               "date_last_used": "13370697349859470",
+               "guid": "e5c15988-5284-48d2-a414-5317d718f277",
+               "id": "26",
+               "name": "Axis Bank Internet Banking",
+               "type": "url",
+               "url": "https://retail.axisbank.co.in/wps/portal/rBanking/axisebanking/AxisRetailLogin/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKNAzxMjIwNjLwsQp0MDBw9PUOd3HwdDQwMjIEKIoEKDHAARwNC-sP1o_ArMYIqwGNFQW6EQaajoiIAVNL82A!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/"
+            }, {
+               "date_added": "13224346526824656",
+               "date_last_used": "13358968331072416",
+               "guid": "8b4a3a88-4d24-4c94-b59c-5bc221f78e7a",
+               "id": "28",
+               "name": "ICICI -Log in to Internet Banking",
+               "type": "url",
+               "url": "https://infinity.icicibank.com/corp/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=ICI&ITM=nli_personalb_personal_login_btn&_ga=2.165181055.1515265486.1579872902-610819969.1579703955"
+            }, {
+               "date_added": "13224587611788810",
+               "date_last_used": "13359540860117428",
+               "guid": "c864ae51-7e9f-47ca-bf4d-456cc0974f33",
+               "id": "30",
+               "name": "Net Banking - Online Banking & E-Banking Services by YES BANK",
+               "type": "url",
+               "url": "https://www.yesbank.in/digital-banking/online-banking/netbanking-services"
+            }, {
+               "date_added": "13225290549695960",
+               "date_last_used": "13376031349134262",
+               "guid": "706a25d7-5194-4534-bb39-580cf584c68e",
+               "id": "40",
+               "name": "State Bank of India - Personal Banking",
+               "type": "url",
+               "url": "https://retail.onlinesbi.sbi/retail/login.htm"
+            }, {
+               "date_added": "13225291234391601",
+               "date_last_used": "13374817043993023",
+               "guid": "00903e99-2980-495a-b2c5-2da5a6235505",
+               "id": "41",
+               "name": "Welcome to HDFC Bank NetBanking",
+               "type": "url",
+               "url": "https://netbanking.hdfcbank.com/netbanking/?_ga=2.122281544.275550050.1580817617-981105946.1580817617"
+            }, {
+               "date_added": "13227345499361300",
+               "date_last_used": "13330580517933531",
+               "guid": "ae60c0d5-c7c1-41d9-9712-bca8f313e1ae",
+               "id": "52",
+               "name": "Online Trading - Open Stock/ Share Market Trading Account | HDFC securities",
+               "type": "url",
+               "url": "https://www.hdfcsec.com/"
+            }, {
+               "date_added": "13270921470055580",
+               "date_last_used": "13345293962627087",
+               "guid": "ca856d1a-ab1f-48f1-9798-97b483d77efd",
+               "id": "160",
+               "name": "Kotak Net Banking",
+               "type": "url",
+               "url": "https://netbanking.kotak.com/knb2/"
+            }, {
+               "date_added": "13252990919232198",
+               "date_last_used": "13339999046259758",
+               "guid": "b8caf2cb-c69e-4303-bc03-66a91724a76c",
+               "id": "113",
+               "name": "Customer Login - Online Transaction Platform | SBI Mutual Fund",
+               "type": "url",
+               "url": "https://www.sbimf.com/en-us/login"
+            }, {
+               "date_added": "13333521232875863",
+               "date_last_used": "13353171697214855",
+               "guid": "ca36accc-9e8d-4681-a2e5-50713f7e22dc",
+               "id": "354",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Union Bank of India - Internet Banking Login",
+               "type": "url",
+               "url": "https://www.unionbankonline.co.in/corp/AuthenticationController?__START_TRAN_FLAG__=Y&FORMSGROUP_ID__=AuthenticationFG&__EVENT_ID__=LOAD&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=026&LANGUAGE_ID=001"
+            }, {
+               "date_added": "13224923573765837",
+               "date_last_used": "0",
+               "guid": "60bc79fe-2222-4a30-9f70-d6df37dde67a",
+               "id": "38",
+               "name": "EPF - Member Home",
+               "type": "url",
+               "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/"
+            }, {
+               "date_added": "13225549158155609",
+               "date_last_used": "13324276196410893",
+               "guid": "d405b321-2fef-4259-84b2-12e9141e229c",
+               "id": "45",
+               "name": "Welcome to Central Record Keeping Agency",
+               "type": "url",
+               "url": "https://cra-nsdl.com/CRA/"
+            }, {
+               "date_added": "13227194164886506",
+               "date_last_used": "0",
+               "guid": "75daba16-9f75-4584-9a96-24225d24b4b3",
+               "id": "49",
+               "name": "Incometax e-Filling Login",
+               "type": "url",
+               "url": "https://eportal.incometax.gov.in/iec/foservices/#/login"
+            }, {
+               "date_added": "13227614528525386",
+               "date_last_used": "13341461543194381",
+               "guid": "cd85e9ae-2ffa-4328-bb54-b1ab6a67ff4f",
+               "id": "54",
+               "name": "Sharekhan Online Trading Account Login",
+               "type": "url",
+               "url": "https://newtrade.sharekhan.com/skweb/trading/home/desktop/"
+            }, {
+               "date_added": "13253707504502801",
+               "date_last_used": "0",
+               "guid": "3a67a2e8-8edf-45fa-81db-667ac28acf96",
+               "id": "117",
+               "name": "PNB E-Banking:Existing users login",
+               "type": "url",
+               "url": "https://netbanking.netpnb.com/corp/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&__FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=024"
+            }, {
+               "date_added": "13336106110049418",
+               "date_last_used": "0",
+               "guid": "9c980357-5052-4232-8b08-78e3c5c39ce7",
+               "id": "363",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Dashboard || Toll Plaza",
+               "type": "url",
+               "url": "https://fastag.ihmcl.com/Home?type=ABCUSTOMER"
+            }, {
+               "date_added": "13227195588640186",
+               "date_last_used": "0",
+               "guid": "cd6cf1ec-140e-4e28-b1d8-575fd0e28aa7",
+               "id": "50",
+               "name": "KVS ONLINE ADMISSION 2020-21 : ADMISSION FORM AND ADMISSION LIST FOR CLASS-1 | KVSANGATHAN.ORG.IN",
+               "type": "url",
+               "url": "http://kvsangathan.org.in/kv_admission_main.php"
+            }, {
+               "date_added": "13228928873916660",
+               "date_last_used": "0",
+               "guid": "180a2130-8377-471c-a0d5-53f1c693c2cf",
+               "id": "79",
+               "name": "Home | KENDRIYA VIDYALAYA (AFS) BEGUMPET",
+               "type": "url",
+               "url": "https://begumpetafs.kvs.ac.in/"
+            }, {
+               "date_added": "13240498184974574",
+               "date_last_used": "0",
+               "guid": "00e5424a-aaa5-46cf-a124-a12938969f56",
+               "id": "95",
+               "name": "Admission Under MP Quota Rajyasabha | KVS- Kendriya Vidyalaya Sangathan | Government of India",
+               "type": "url",
+               "url": "https://kvsangathan.nic.in/academics/admission-under-mp-quota/rajyasabha/rajyasabha-archive?title=&field_catgeory_tid=All&field_date_value_1%5Bvalue%5D%5Byear%5D=2020"
+            }, {
+               "date_added": "13244189528919663",
+               "date_last_used": "0",
+               "guid": "a5d1f2f8-520b-4f10-ab48-b8a8158d7ae0",
+               "id": "105",
+               "name": "TIN",
+               "type": "url",
+               "url": "https://www.tin-nsdl.com/downloads/pan/downloads-pan.html"
+            }, {
+               "date_added": "13246368836514952",
+               "date_last_used": "13353654051410750",
+               "guid": "fb67ae99-22f9-4e1d-a274-5fc83af85190",
+               "id": "109",
+               "name": "Adobe Acrobat Home",
+               "type": "url",
+               "url": "https://documentcloud.adobe.com/link/home/"
+            }, {
+               "date_added": "13254389690017336",
+               "date_last_used": "0",
+               "guid": "c40d741f-c83a-420f-8276-d6b7333b4e62",
+               "id": "119",
+               "name": "IFSC Code Bank",
+               "type": "url",
+               "url": "https://www.ifsccodebank.com/Lakshmi-vilas-bank-ifsc-code-_jaggaiahpet-_jaggaiahpet-_andhra-pradesh/85/2/c4?BankId=85&StateId=2&District=jaggaiahpet&City=jaggaiahpet"
+            }, {
+               "date_added": "13254989260787844",
+               "date_last_used": "0",
+               "guid": "e74c88b8-bd09-4f9f-bd86-b588a46bda05",
+               "id": "121",
+               "name": "myCAMS",
+               "type": "url",
+               "url": "https://mycams.camsonline.com/Home/myportfolio?iawznWUQo4lAHU3IRffbgH5FNG3VXfR4NjnljeHbcBrxQhakjDqxoB5wnmJRPYju1WoLe8XfYI7a3z8Q-cP8nhpiWCIT1G8cCquGJ03b1ThmKqxZDnH6iAzq8SUTuAUg8kzn7DnUWBuvT3atfjstCW8_kA0GGsI33y0wKHCSKowfJEbEiTANSgLt6q_oE0Ln#!"
+            }, {
+               "date_added": "13266068112462360",
+               "date_last_used": "0",
+               "guid": "5b9fbeb4-9739-4c0f-9b8f-89740362794e",
+               "id": "136",
+               "name": ":: Meeseva - Online Login AP ::",
+               "type": "url",
+               "url": "https://onlineap.meeseva.gov.in/CitizenPortal/UserInterface/Citizen/CitizenHome.aspx#"
+            }, {
+               "date_added": "13266068140614083",
+               "date_last_used": "0",
+               "guid": "282e1247-dffe-4d3a-b8f4-6ea10c17b4a9",
+               "id": "137",
+               "name": "MeeSeva Portal :Telangana",
+               "type": "url",
+               "url": "https://ts.meeseva.telangana.gov.in/meeseva/dashBoard2.htm"
+            }, {
+               "date_added": "13270965413575098",
+               "date_last_used": "0",
+               "guid": "10bdb321-af3b-43ab-a0b3-37c41e39a970",
+               "id": "162",
+               "name": "Home - PMKisan",
+               "type": "url",
+               "url": "https://pmkisan.gov.in/NewHome3.aspx"
+            }, {
+               "date_added": "13274330856860286",
+               "date_last_used": "0",
+               "guid": "f27f1dc9-7369-4e3c-90a6-01ad000e6f71",
+               "id": "173",
+               "name": "Today Gold Rate in Hyderabad - 25 Aug 2021 - Gold Price Today in Hyderabad",
+               "type": "url",
+               "url": "https://www.goldpriceindia.com/gold-price-hyderabad.php"
+            }, {
+               "date_added": "13279512002527290",
+               "date_last_used": "0",
+               "guid": "183c63b0-54b8-437a-824b-1178f356c3ed",
+               "id": "178",
+               "name": "Telugu Movies OTT Release Dates 2021 | Telugu Digital Release Dates - Trend raja",
+               "type": "url",
+               "url": "http://trendraja.in/telugu-movie-ott-release-dates-2021/"
+            }, {
+               "date_added": "13288878273639640",
+               "date_last_used": "13339062915962154",
+               "guid": "0adaca7d-73b4-4897-a5a6-f98adc79e1d3",
+               "id": "225",
+               "name": "APCPDCL - Login",
+               "type": "url",
+               "url": "https://www.apcpdcl.in/ConsumerDashboard/login.jsp"
+            }, {
+               "date_added": "13320163925681159",
+               "date_last_used": "0",
+               "guid": "ed4576a1-ad1d-4878-8df7-e0f24d92f597",
+               "id": "327",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Filter and Search Records in Power Apps - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=m2e07BKrr6I&list=PLib8Q64STW-tLkyHqf_U4Gu7CWDz1E7kE&index=16"
+            } ],
+            "date_added": "13224344292528830",
+            "date_last_used": "0",
+            "date_modified": "13338374185177850",
+            "guid": "96ff55e1-e944-434f-bad1-5132e1926b95",
+            "id": "27",
+            "name": "Banks",
+            "type": "folder"
+         } ],
+         "date_added": "13223993519831458",
+         "date_last_used": "0",
+         "date_modified": "13243965798377159",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13235476521810274",
+            "date_last_used": "0",
+            "guid": "f3b11f21-5dde-4d8a-94b3-79eacdfbb4ec",
+            "id": "87",
+            "name": "Spandana",
+            "type": "url",
+            "url": "http://spandana1.ap.gov.in/Registration/onlineRegistration.aspx"
+         }, {
+            "date_added": "13236261698856589",
+            "date_last_used": "0",
+            "guid": "4eda4b48-e864-4450-8135-ffeecc5497b1",
+            "id": "89",
+            "name": "Spotify – Intentions",
+            "type": "url",
+            "url": "https://open.spotify.com/"
+         }, {
+            "date_added": "13258651617005315",
+            "date_last_used": "0",
+            "guid": "171aeccd-3f0d-4fa8-94ea-7b43b21df054",
+            "id": "128",
+            "name": "Google Translate",
+            "type": "url",
+            "url": "https://translate.google.co.in/?sl=en&tl=hi&text=bricks&op=translate"
+         }, {
+            "date_added": "13267787237666241",
+            "date_last_used": "0",
+            "guid": "dcfc3887-3af8-4695-912f-cc8edb8661dc",
+            "id": "141",
+            "name": "ServicePlus- Issuance of COVID -19 ePass - Andhra Pradesh",
+            "type": "url",
+            "url": "https://serviceonline.gov.in/renderApplicationForm.do;jsessionid=E0E26295C0B503BF38801586B855C2B3?serviceId=14040003&UUID=8be51a5c-ddda-477a-9e88-de76fe7fd027&directService=true&tempId=4932&grievDefined=0&serviceLinkRequired=No&userLoggedIn=N&source=CTZN&OWASP_CSRFTOKEN=YMHM-ZMKZ-YNL8-204M-5VHE-0LLD-9RPK-LTL2"
+         }, {
+            "date_added": "13270967103741063",
+            "date_last_used": "0",
+            "guid": "afbe8151-61ae-4191-a075-c790768fd31b",
+            "id": "163",
+            "name": "Lost your mobile phone? Easy ways to get back your gadget",
+            "type": "url",
+            "url": "https://telanganatoday.com/lost-your-mobile-phone-easy-ways-to-get-back-your-gadget"
+         }, {
+            "date_added": "13273001156764865",
+            "date_last_used": "0",
+            "guid": "946096fe-271a-4bba-921f-565348d107e7",
+            "id": "171",
+            "name": "Contact here for the Agricultural Machinery Manufacturers.",
+            "type": "url",
+            "url": "http://www.varshaagro.com/contact_us.php"
+         }, {
+            "date_added": "13296018508020737",
+            "date_last_used": "0",
+            "guid": "eedd1f3d-2edb-40e1-aa7a-69924b4b892c",
+            "id": "259",
+            "name": "VOHS Rajiv Gandhi Int'l Airport (VOHS) - FlightAware",
+            "type": "url",
+            "url": "https://uk.flightaware.com/live/airport/VOHS"
+         }, {
+            "date_added": "13296305912909240",
+            "date_last_used": "0",
+            "guid": "ed1d13de-8c8a-48da-8c73-87bd29371892",
+            "id": "264",
+            "name": "AWARD WINNERS – Paul And Mike",
+            "type": "url",
+            "url": "https://www.paulandmike.co/collections/award-winners"
+         }, {
+            "date_added": "13296737959435793",
+            "date_last_used": "0",
+            "guid": "6f59b9d5-776d-4cb5-aa97-6fee27d0ee00",
+            "id": "265",
+            "name": "Sketchbook | Apps for desktop and mobile devices",
+            "type": "url",
+            "url": "https://www.sketchbook.com/apps"
+         }, {
+            "date_added": "13308925100151680",
+            "date_last_used": "0",
+            "guid": "47db27c3-efac-4b20-9047-52f02b90db4e",
+            "id": "290",
+            "name": "Murudeshwar Tourism (2022) - Karnataka > Top Places, Travel Guide",
+            "type": "url",
+            "url": "https://www.holidify.com/places/murudeshwar/"
+         }, {
+            "date_added": "13309281380056784",
+            "date_last_used": "0",
+            "guid": "8a5b0c09-2376-4561-b5c7-eac4fd8c916f",
+            "id": "292",
+            "name": "Bangalore to Goa by Road in 5 Spectacular Routes!",
+            "type": "url",
+            "url": "http://traveltwosome.com/bangalore-to-goa-5-spectacular-routes/"
+         }, {
+            "children": [ {
+               "date_added": "13318508350585630",
+               "date_last_used": "13318746284150568",
+               "guid": "5b4e3f36-092e-4a82-be00-46e83ca81724",
+               "id": "314",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "TAG Heuer® Official Website - Swiss Luxury Watches since 1860",
+               "type": "url",
+               "url": "https://www.tagheuer.com/in/en/"
+            }, {
+               "date_added": "13318508383178068",
+               "date_last_used": "13318746295265756",
+               "guid": "c389bd81-9a0c-4bf9-8c53-5ea82b2e8b73",
+               "id": "316",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "All EA Watches for Men | Emporio Armani",
+               "type": "url",
+               "url": "https://www.armani.com/en-th/emporio-armani/man/watches"
+            }, {
+               "date_added": "13318508393121960",
+               "date_last_used": "13318746305190607",
+               "guid": "7d277f55-8a92-4c9d-8b78-00b9874c6d65",
+               "id": "317",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "G-SHOCK | CASIO INDIA",
+               "type": "url",
+               "url": "https://www.casio.com/in/watches/gshock/"
+            }, {
+               "date_added": "13320420111939747",
+               "date_last_used": "0",
+               "guid": "f0c6a000-09e6-4e6f-adce-22bfebe35f6c",
+               "id": "329",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Everything about skate shoes - Wiki | skatedeluxe Blog",
+               "type": "url",
+               "url": "https://www.skatedeluxe.com/blog/en/everything-about-skate-shoes/"
+            } ],
+            "date_added": "13318508377310355",
+            "date_last_used": "0",
+            "date_modified": "13320919129784504",
+            "guid": "f8392858-8bc5-4468-a192-2f9eae25b959",
+            "id": "315",
+            "name": "Watches",
+            "type": "folder"
+         }, {
+            "date_added": "13330770828172610",
+            "date_last_used": "0",
+            "guid": "7c734f52-04e4-45ab-9437-ba79ce771a12",
+            "id": "344",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Food Preservation Methods & Guidance | High Speed Training",
+            "type": "url",
+            "url": "https://www.highspeedtraining.co.uk/hub/food-preservation-methods/"
+         }, {
+            "date_added": "13338374185177850",
+            "date_last_used": "13351248548168129",
+            "guid": "aa28e294-007e-4892-9f22-62a34698af2a",
+            "id": "365",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SKLTSHU",
+            "type": "url",
+            "url": "https://skltshu.ac.in/fruits.html"
+         }, {
+            "date_added": "13339252763965279",
+            "date_last_used": "13340429439694158",
+            "guid": "5fc67597-922a-4d13-8c04-a8cb46bfd8ec",
+            "id": "367",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Ashtagandha + Marigold Seeds Buy Online At Best Price – BigHaat.com",
+            "type": "url",
+            "url": "https://www.bighaat.com/products/marigold-ashtagandha-seeds"
+         }, {
+            "date_added": "13339740057057870",
+            "date_last_used": "0",
+            "guid": "dfc7af76-ae94-42af-afe6-0dff314182b0",
+            "id": "369",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Eswar Vegetables Nursary, kalyandurg - Order Online",
+            "type": "url",
+            "url": "https://eswarvegetablesnursary.in/"
+         }, {
+            "date_added": "13340644801505181",
+            "date_last_used": "0",
+            "guid": "10653a78-4a3e-47d9-ac8b-7de87c82bd0c",
+            "id": "371",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Agriculture Products Online | Buy Agricultural Products Online – BigHaat.com",
+            "type": "url",
+            "url": "https://www.bighaat.com/"
+         }, {
+            "date_added": "13340812537315083",
+            "date_last_used": "0",
+            "guid": "c170ec38-2e5c-4007-9617-3694d1c0d63b",
+            "id": "373",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Artificial Intelligence (AI) and Data Analytics Services Provider",
+            "type": "url",
+            "url": "https://www.amnetdigital.com/"
+         }, {
+            "date_added": "13351248469989976",
+            "date_last_used": "13364714063675411",
+            "guid": "f61fa4c8-c7d0-43d9-b2cb-29f295ede6c5",
+            "id": "403",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DBHPSAPTS",
+            "type": "url",
+            "url": "http://www.dbhpsapts.com/hallticket.php"
+         }, {
+            "date_added": "13365236874643785",
+            "date_last_used": "0",
+            "guid": "0ef6e4ae-43c6-492f-a619-1bc807695a9c",
+            "id": "430",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Call For Box Cricket Setup In Hyderabad | Call 7659830163 | KD Safety Nets",
+            "type": "url",
+            "url": "https://www.kdsafetynets.com/box-cricket-setup-in-hyderabad"
+         } ],
+         "date_added": "13223993519831471",
+         "date_last_used": "0",
+         "date_modified": "13365396747471355",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13223993519831473",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
