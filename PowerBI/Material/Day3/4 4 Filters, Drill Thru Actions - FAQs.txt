@@ -1,0 +1,16 @@
+FITLERS
+Q1.	WHAT ARE THE TYPES OF FILTERS?
+	Basic Filter
+	Advanced Filter 
+	Top N filter
+
+Q2.	WHAT ARE THE FILTER STYLES APPLICABLE ON PAGE FILTERS?
+	Filter Pane and Filter cards
+
+Q3.	WHAT ARE THE LIMITATIONS OF "TOP N" FILTER STYLE?
+
+Q4.	IF YOU HAVE BOTH VISUAL FILTERS AND PAGE FILTERS IN A REPORT PAGE, THEN WHICH FILTER TAKES MORE PRIORITY?
+	Visual Filter
+
+Q5.	WHAT ARE THE LIMITATIONS OF ADDVANCED FILTERS? 
+	you won't see a list of values to choose from, but you can use rules to determine a range of values the report will return

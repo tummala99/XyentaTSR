@@ -1,0 +1,16 @@
+
+Q1.	WHAT ARE BOOKMARKS IN POWER BI?
+	Bookmarks are used to natigate from one page to other page with in the report
+
+Q2.	WHAT ARE STEPS TO IMPLEMENT BOOKMARKS?
+	Got to View menu option on top of report page and select Bookmarks button.It opens vertical menu, there need to click on add and enter book mark name.
+	
+Q3.	WHAT ARE ACTIONS IN POWER BI?
+	To navigate between pages and to go external websites,Actions is an option in Power BI.
+ 
+Q4.	HOW TO USE BUTTONS IN POWER BI?
+	Go to INSERT menu option on top and select different navigation options from the list and configure action property.
+
+Q5.	HOW TO USE IMAGES IN POWER BI ? 
+	Go to INSERT menu option on top and select Image sub menu in the top right side, prode image location to get it on to the report.
+	We can configure action property to the images also.
