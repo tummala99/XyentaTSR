@@ -1,0 +1,27 @@
+Q1.	WHAT IS A VISUAL IN POWER BI?
+	Visual is a area where our data will be present.
+
+Q2.	ON WHAT BASIS ONE VISUAL INTERACTS WITH ANOTHER VISUAL IN POWER BI?
+	On selection of data point, other visuals will refresh.
+
+Q3.	WHAT IS VISUAL INTERACTION ? 
+	Selecton of Datapoint in one visual will auto filter other visual data in the same report page.
+
+Q4. 	WHERE DO YOU CONTROL VISUAL INTERACTION PROPERTY?
+	Select Visual and select Format from top Menu bar--> Edit Interration and click on None onvisual to stop interation. Click on Filter to enable interation.
+
+Q5.	HOW TO HIDE A POWER BI PAGE?
+	Right click on Page tab and select Hide option.
+
+Q6.	WHAT IS FOCUS MODE?
+	TO ZOOM A PIRTICULAR VISUAL
+
+Q7.	WHAT IS SPOTLIGHT?
+	TO highlight the particular visual.
+
+Q9.	HOW TO EXPORT CONTENTS OF A VISUAL TO CSV FILE?
+	Select visual and click on ... at right side top corner and select Export data to export visual data into csv file.
+
+Q10. 	HOW TO EXPORT CONTENTS OF A POWER BI REPORT TO PDF FILE?
+
+	SELECT File-->Export-->Select Export to PDF

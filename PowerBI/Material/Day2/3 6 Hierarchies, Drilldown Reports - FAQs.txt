@@ -1,0 +1,28 @@
+Q1.	WHAT IS HIERARCHY?
+	Hierarchy is a ordered collection of report fields
+
+Q2.	HOW TO IMPLEMENT HIERARCHY?
+	Right click on first level attribute -->> click on new hierarchy.
+	Right click on other field which need to be a part of hierarchy and select 	add to hierarchy just created above.
+Q3.	IN WHAT REAL-TIME SCENARIOS YOU NEED HIERARCHICES?
+	If we an to see the sales in period wise.like Year -->> Quarter -->> Month -->> date
+
+Q4.	CAN WE PERFORM DRILL-DOWN REPORTS WITHOUT HIERARCHIES?  IF YES, THEN IN WHICH CASES?
+	With Group columns we can create hoerarchy
+Q5.	WHAT IS DRILL-UP AND DRILL-DOWN?
+	Drill-up means display data in summary level of immediate parent.
+	Drill- down mean expand data in detail level.
+
+Q6.	WHAT ARE THE POSSIBLE DRILL-DOWN ACTIONS?
+	Conditional based on data point select
+	Independent
+	Dependent and combined drill down
+Q7.	HOW TO CONDITIONALLY PERFORM DRILLDOWN REPORTS?
+
+Q8.	WHAT ARE THE TYPES OF DRILL-DOWNS?
+
+Q9.	YOU ARE GIVEN COUNTRY WISE, COMPANY WISE, MONTH WISE, SALES DATA.
+	YOU ARE ASKED TO DRILL DOWN TO A SPECIFIC COUNTRY : INDIA,  SPECIFIC COMPANY SQL SCHOOL BUT NEED 	ALL MONTHS SALES DATA.
+	HOW DO YOU ACCOMPLISH THIS TASK?
+
+Q10. 	WHAT ARE THE LIMTIATIONS OF HIERARCHIES IN POWER BI?

@@ -1,0 +1,20 @@
+Q1. 	WHAT ARE THE LIMITATIONS OF GROUPING?
+	
+Q2.	WHAT ARE THE POSSIBLE GROUP TYPES FOR CHARACTER DATA?
+	List
+
+Q3.	WHAT ARE THE POSSIBLE GROUP TYPES FOR NON CHARACTER DATA?
+	Bin and List
+
+Q4.	HOW TO VERIFY THE GROUPED DATA?
+	Right click on Group Name in Fields and select Edit groups
+
+Q5.	HOW TO FIND A GROUPED FIELD?
+	Right click on Group Name in Fields and select Edit groups
+
+Q6.	HOW TO EDIT A GROUPED FIELD?
+	Right click on Group Name in Fields and select Edit groups
+	Ungroup fields you want to edit and make group again with disired set.
+
+Q7.	IN WHAT CASES VISUAL INTERACTION WILL NEVER WORK ?
+

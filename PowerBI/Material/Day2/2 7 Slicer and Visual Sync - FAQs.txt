@@ -1,0 +1,42 @@
+Q1.	WHAT IS VISUAL SYNC?
+	Filter and Refreshing visuals on the same page or other pages of power bi reports.
+
+Q2.	HOW TO IMPLEMENT VISUAL SYNC?
+
+	Go to View -->Sync Slicers then select pages and option for Sync and refresh.
+
+Q3.	IN WHAT CONDITIONS SLICER VISUAL SUPPORT VISUAL SYNC?
+	Slicer support Visual Sync only when we have more than one report.
+ 
+Q4.	DOES TABLE VISUAL SUPPORT VISUAL SYNC?
+	Yes.It supports Visual Sync
+
+Q5.	WHAT ARE THE LIMITATIONS OF A SLICER?
+	No support for Input fields
+	The silcer do not support and work with Measures
+	No support for visual level filters.
+
+Q6.	HOW TO DISABLE A SLICER?
+	Click on the slicer -->> Select Format menu option on top -->> Click on Edit Interation -->> then click the icon on the right side labeled None for each of the 	tile you wish to disable interation
+Q7.	HOW TO CLEAR OR REMOVE FILTERS (CONDITIONS) IN A SLICER?
+
+Q8.	WHAT ARE THE ORIENTATION PROPERTIES OF A SLICER?
+	Vertical and Horizontal
+Q9.	WHAT ARE THE ITEM PROPERTIES OF A SLICER?
+	Font color,background,outline,Text size,Bold,Italic,Underline
+
+Q10.	DOES TABLE VISUAL SUPPORT VISUAL SYNC ?		
+	Table visual suports Visual Sync
+
+Q11.	IN WHAT CASES SLICER DOES NOT SUPPORT VISUAL SYNC ?
+	The silcer do not support and work with Measures
+
+
+Q12.	IF ANY EMPTY VALUES EXIST IN SOURCE DATA, HOW SLICER TREATS OR REPORTS THIS EMPTY VALUES?	
+	It reports as (Blank)
+
+Q13.	IF ANY EMPTY VALUES EXIST IN SOURCE DATA, HOW TREEMAP TREATS OR REPORTS THIS EMPTY VALUES?	
+	Display Empty values as blank area.
+
+
+
