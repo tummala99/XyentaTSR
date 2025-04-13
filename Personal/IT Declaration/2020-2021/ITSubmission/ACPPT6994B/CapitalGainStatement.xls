@@ -1,0 +1,220 @@
+<div id="tableexcelexportid">
+            <div id="maindiv">
+    <div class="container-bordered">
+        <h2 id="EQheader">Equity</h2>
+        <div class="table-responsive table-noData">
+            <table class="table table-theme excelBorder" border="1">
+                <thead>
+                    <tr>
+                        <th rowspan="2" style="vertical-align: top" class="text-center"> Company Name </th>
+                        <th colspan="2" class="text-center"> Buy </th>
+                        <th colspan="2" class="text-center"> Sell </th>
+                        <th colspan="3" class="text-center"> Profit/loss </th>
+                    </tr>
+                    <tr>
+                        
+                        <th class="text-right"> Qty </th>
+                        <th class="text-right"> Value(<span class="icon-rupees_1"></span>) </th>
+                        
+                        <th class="text-right"> Qty </th>
+                        <th class="text-right"> Value(<span class="icon-rupees_1"></span>) </th>
+                        <th class="text-center"> Speculative(<span class="icon-rupees_1"></span>) </th>
+                        <th class="text-center"> Short term(<span class="icon-rupees_1"></span>) </th>
+                        <th class="text-center"> Long term (<span class="icon-rupees_1"></span>) </th>
+                    </tr>
+                </thead>
+                <tbody id="tbodyCapitalGainidEQ">
+            <tr>
+                <td class="text-uppercase width285">AXIS BANK LIMITED</td>
+                
+                <td class="text-right">50</td>
+                <td class="text-right">23138.85</td>
+                   
+                <td class="text-right">50</td>
+                <td class="text-right">25348.65</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-green">2209.80</td>
+                <td class="text-center text-black">0.00</td>
+            </tr>
+        
+            <tr>
+                <td class="text-uppercase width285">BHARAT HEAVY ELECTRICALS LTD</td>
+                
+                <td class="text-right">1550</td>
+                <td class="text-right">166669.49</td>
+                   
+                <td class="text-right">1550</td>
+                <td class="text-right">120182.35</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-red">-46487.14</td>
+            </tr>
+        
+            <tr>
+                <td class="text-uppercase width285">HDFC BANK LTD</td>
+                
+                <td class="text-right">100</td>
+                <td class="text-right">81237.45</td>
+                   
+                <td class="text-right">100</td>
+                <td class="text-right">112886.66</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-green">31649.21</td>
+                <td class="text-center text-black">0.00</td>
+            </tr>
+        
+            <tr>
+                <td class="text-uppercase width285">JSW ENERGY LIMITED</td>
+                
+                <td class="text-right">200</td>
+                <td class="text-right">21068.37</td>
+                   
+                <td class="text-right">200</td>
+                <td class="text-right">14314.40</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-red">-6753.97</td>
+            </tr>
+        
+            <tr>
+                <td class="text-uppercase width285">NHPC LIMITED</td>
+                
+                <td class="text-right">215</td>
+                <td class="text-right">7101.64</td>
+                   
+                <td class="text-right">215</td>
+                <td class="text-right">5214.91</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-red">-1886.73</td>
+            </tr>
+        
+            <tr>
+                <td class="text-uppercase width285">OIL &amp; NATURAL GAS CORPORATION LIMITED</td>
+                
+                <td class="text-right">620</td>
+                <td class="text-right">74241.17</td>
+                   
+                <td class="text-right">620</td>
+                <td class="text-right">63389.36</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-green">12462.97</td>
+                <td class="text-center text-red">-23314.78</td>
+            </tr>
+        
+            <tr>
+                <td class="text-uppercase width285">SBI CARDS AND PAYMENT SERVICES</td>
+                
+                <td class="text-right">50</td>
+                <td class="text-right">30281.66</td>
+                   
+                <td class="text-right">50</td>
+                <td class="text-right">42115.48</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-green">11833.81</td>
+                <td class="text-center text-black">0.00</td>
+            </tr>
+        
+            <tr>
+                <td class="text-uppercase width285">SHREE RENUKA SUGARS LIMITED</td>
+                
+                <td class="text-right">500</td>
+                <td class="text-right">25300.26</td>
+                   
+                <td class="text-right">500</td>
+                <td class="text-right">4970.50</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-red">-20329.76</td>
+            </tr>
+        
+            <tr>
+                <td class="text-uppercase width285">STATE BANK OF INDIA</td>
+                
+                <td class="text-right">100</td>
+                <td class="text-right">18511.10</td>
+                   
+                <td class="text-right">100</td>
+                <td class="text-right">39862.60</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-green">21351.50</td>
+                <td class="text-center text-black">0.00</td>
+            </tr>
+        
+            <tr>
+                <td class="text-uppercase width285">VEDANTA LIMITED</td>
+                
+                <td class="text-right">200</td>
+                <td class="text-right">18304.81</td>
+                   
+                <td class="text-right">200</td>
+                <td class="text-right">35975.00</td>
+                <td class="text-center text-black">0.00</td>
+                <td class="text-center text-green">17670.19</td>
+                <td class="text-center text-black">0.00</td>
+            </tr>
+        </tbody>
+                <tfoot id="tfootCapitalGainidEQ"><tr><td colspan="5" class="font-bold text-uppercase">Equity Total gain/loss</td><td class="text-center font-bold text-black">0</td><td class="text-center font-bold text-green">97174</td><td class="text-center font-bold text-red">-98769</td> </tr></tfoot>
+            </table>
+        </div>
+    </div>
+
+            <div class="container-bordered">
+                <h2 id="DRheader">Equity Derivatives</h2>
+                <div class="table-responsive table-noData">
+                    <table class="table table-theme excelBorder" border="1">
+                        <thead>
+                            <tr>
+                                <th rowspan="2" style="vertical-align: top" class="text-center"> Company Name </th>
+                                <th colspan="2" class="text-center"> Buy </th>
+                                <th colspan="2" class="text-center"> Sell </th>
+                                <th colspan="1" class="text-center"> Profit/loss </th>
+                            </tr>
+                            <tr>
+                                
+                                <th class="text-right"> Qty </th>
+                                <th class="text-right"> Value(<span class="icon-rupees_1"></span>) </th>
+                                
+                                <th class="text-right"> Qty </th>
+                                <th class="text-right"> Value(<span class="icon-rupees_1"></span>) </th>
+                                <th class="text-center"> Speculative(<span class="icon-rupees_1"></span>) </th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbodyCapitalGainidEquityDR"><tr><td colspan="6"><div style="font-family:RobotoBold;font-size:24px;top:50%;text-align:center;"> No data available. </div></td></tr> </tbody>
+                        <tfoot id="tfootCapitalGainidEquityDR">
+
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+
+    <div class="container-bordered">
+        <h2 id="CURheader">Currency Derivatives</h2>
+        <div class="table-responsive table-noData">
+            <table class="table table-theme excelBorder" border="1">
+                <thead>
+                    <tr>
+                        <th rowspan="2" style="vertical-align: top" class="text-center"> Contract </th>
+                        <th colspan="2" class="text-center"> Buy </th>
+                        <th colspan="2" class="text-center"> Sell </th>
+                        <th colspan="1" class="text-center"> Profit/loss </th>
+                    </tr>
+                    <tr>
+                        
+                        <th class="text-right"> Qty </th>
+                        <th class="text-right"> Value(<span class="icon-rupees_1"></span>) </th>
+                        
+                        <th class="text-right"> Qty </th>
+                        <th class="text-right"> Value(<span class="icon-rupees_1"></span>) </th>
+                        <th class="text-center"> Speculative(<span class="icon-rupees_1"></span>) </th>
+                    </tr>
+                </thead>
+                <tbody id="tbodyCapitalGainidCUR"><tr><td colspan="6"><div style="font-family:RobotoBold;font-size:24px;top:50%;text-align:center;"> No data available. </div></td></tr> </tbody>
+                <tfoot id="tfootCapitalGainidCUR">
+
+                </tfoot>
+            </table>
+        </div>
+    </div>
+</div>
+        </div>
