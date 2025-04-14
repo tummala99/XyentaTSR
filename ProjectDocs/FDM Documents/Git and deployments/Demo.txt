@@ -1,0 +1,54 @@
+cd D:\Git2
+
+git clone http://git.bfl.local/Finance/FDM_DB.DB.git
+
+cd FDM_DB.DB/
+
+git log
+
+git reset --hard bc66396a50598db9166743e1e04700d23c03a22c
+
+git log
+
+git checkout -b FDM-Test
+
+git status
+
+git add 
+
+git commit -m "Test"
+
+git branch
+
+git checkout master
+
+git checkout -b TestBranch
+
+--- remove table from project ---------------
+
+git add src/FDM_DB.DB/FDM_DB.DB.sqlproj
+
+git commit -m "Test: remove table from project"
+
+git log
+
+git pull origin master
+
+git push -u origin TestBranch
+
+--- create pull request ---------------
+
+git merge master
+
+git pull origin master
+
+git checkout TestBranch
+
+git merge origin/FactFDMExternal_Split
+
+git mergetool
+
+git status
+
+git commit -m "Conflict resolution"
+
